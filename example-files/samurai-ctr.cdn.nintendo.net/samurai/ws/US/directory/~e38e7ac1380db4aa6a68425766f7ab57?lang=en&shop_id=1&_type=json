@@ -1,0 +1,136 @@
+{
+	"directory": {
+		"name": "Detective Pikachu™",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/4e08f2a24eaa3d65dfb28881b9ae08343e3192b790a51e433d3a13551cd7d737.jpg",
+		"icon_width": 128,
+		"icon_height": 96,
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0ba37b269e757756194f89c352df1d468a68ed828ff099a2db046b3ce7f02362.jpg",
+		"contents": {
+			"content": [{
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "The Pokémon Company",
+						"id": 210
+					},
+					"display_genre": "Adventure / Action / Puzzle",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.44,
+						"votes": 2585,
+						"star1": 106,
+						"star2": 94,
+						"star3": 235,
+						"star4": 619,
+						"star5": 1531
+					},
+					"release_date_on_eshop": "2018-03-23",
+					"release_date_on_retail": "2018-03-23",
+					"price_on_retail": "$39.99",
+					"price_on_retail_detail": {
+						"amount": "$39.99",
+						"currency": "USD",
+						"raw_value": "39.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Detective Pikachu",
+					"id": 50010000045116,
+					"product_code": "CTR-N-A98A",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ad3b26d4160ca5d6220de43caa6be04d7a13aded44f145220d5fd1e835354713.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/a62d22b4037aeeaa58a5c8e520607367133249ff89cc0a1691511d7584763c3b.jpg",
+					"new": false
+				},
+				"index": 1
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "The Pokémon Company",
+						"id": 210
+					},
+					"display_genre": "Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.04,
+						"votes": 4136,
+						"star1": 459,
+						"star2": 296,
+						"star3": 467,
+						"star4": 734,
+						"star5": 2180
+					},
+					"release_date_on_eshop": "2018-04-05",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Detective Pikachu™\nSpecial Demo",
+					"id": 50010000045157,
+					"product_code": "CTR-N-BZTA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3ed93ee052e5938bd0cbe519cac891549612e9ad07cd0d50bb0c9e48c2f5a8cb.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0c4cf5c9bb1b3794396c2129b21e37a58d1916a960cdee85f783eba2b1bf8aa9.jpg",
+					"new": false
+				},
+				"index": 2
+			}],
+			"total": 2
+		},
+		"id": 1071106,
+		"type": "normal",
+		"component": "title",
+		"alias": "e38e7ac1380db4aa6a68425766f7ab57"
+	}
+}

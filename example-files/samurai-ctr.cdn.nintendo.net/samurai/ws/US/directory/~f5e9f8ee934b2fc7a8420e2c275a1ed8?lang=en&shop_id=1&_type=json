@@ -1,0 +1,1486 @@
+{
+	"directory": {
+		"name": "Games You'll Love",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/937a5435cfd46d194cab8acc9e742377219067ed43add2c1b3a6a53661610881.jpg",
+		"icon_width": 128,
+		"icon_height": 96,
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/4b08c8dab5438971e016160b4ba738ee460305c4c54e0415956cd828b67e3241.jpg",
+		"description": "Is your new system hungry for more games? Fill it up with these great games!",
+		"contents": {
+			"content": [{
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure / Platformer",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.77,
+						"votes": 290399,
+						"star1": 5635,
+						"star2": 3957,
+						"star3": 11954,
+						"star4": 45013,
+						"star5": 223840
+					},
+					"release_date_on_eshop": "2012-10-18",
+					"release_date_on_retail": "2011-11-13",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Super Mario™ 3D Land",
+					"id": 50010000007541,
+					"product_code": "CTR-N-AREE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/9e6a7b1c499a17710074976e63f849dc33599face764e5fc96bafc3068f736be.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/a22a5f44eae8102169a432185cb719672b29a72415e71d64656beea87f6b75d7.jpg",
+					"new": false
+				},
+				"index": 1
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Racing",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.81,
+						"votes": 314181,
+						"star1": 5313,
+						"star2": 3382,
+						"star3": 10791,
+						"star4": 46156,
+						"star5": 248539
+					},
+					"release_date_on_eshop": "2012-10-18",
+					"release_date_on_retail": "2011-12-04",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Mario Kart™ 7",
+					"id": 50010000007703,
+					"product_code": "CTR-N-AMKE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/7b08b94ea2d841adb536d708f8104d152d8e354af0604e5d41ccabc54e7491ae.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/6ab87174c6d4b6a7c75f3f0136f4336395397e93bba53c27baa55e3fe2fa240d.jpg",
+					"new": false
+				},
+				"index": 2
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Platformer",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.62,
+						"votes": 24964,
+						"star1": 669,
+						"star2": 616,
+						"star3": 1633,
+						"star4": 5261,
+						"star5": 16785
+					},
+					"release_date_on_eshop": "2013-05-24",
+					"release_date_on_retail": "TBD",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Donkey Kong Country™\nReturns 3D",
+					"id": 50010000014033,
+					"product_code": "CTR-N-AYTE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/595f792f0177b9c76db7bb537e6465dc35c385f8143b0a1628c868288b2fcb81.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/490d52d2de1f3f17216845569f00b0184276f9a64e161c73be6fba435110c6be.jpg",
+					"new": false
+				},
+				"index": 3
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.88,
+						"votes": 62656,
+						"star1": 471,
+						"star2": 430,
+						"star3": 1506,
+						"star4": 7489,
+						"star5": 52760
+					},
+					"release_date_on_eshop": "2013-11-22",
+					"release_date_on_retail": "2013-11-22",
+					"price_on_retail": "$19.99",
+					"price_on_retail_detail": {
+						"amount": "$19.99",
+						"currency": "USD",
+						"raw_value": "19.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "The Legend of Zelda™:\n<br>A Link Between Worlds",
+					"id": 50010000017216,
+					"product_code": "CTR-N-BZLE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/7444dcb55463d94612814504e48ff1763fbc28e895c678bbe43a55376eb3c99c.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/02138a34105085f0536f191ed1ce7238ecd5773d8c8d83fe3d01ddab5f859d75.jpg",
+					"new": false
+				},
+				"index": 4
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "The Pokémon Company",
+						"id": 210
+					},
+					"display_genre": "RPG / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.79,
+						"votes": 12528,
+						"star1": 209,
+						"star2": 181,
+						"star3": 511,
+						"star4": 1835,
+						"star5": 9792
+					},
+					"release_date_on_eshop": "2017-11-17",
+					"release_date_on_retail": "2017-11-17",
+					"price_on_retail": "$39.99",
+					"price_on_retail_detail": {
+						"amount": "$39.99",
+						"currency": "USD",
+						"raw_value": "39.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon Ultra Sun",
+					"id": 50010000043877,
+					"product_code": "CTR-N-A2AA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/888a7995d333ad2723e69d5a758df8fcee1dd4c03f3ba72c0490fed9f8e05995.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/1cbc0e654b6d9c14bff83768eb6cf598c97e15a1e26c5a6ef7d3c7056d2d5aa5.jpg",
+					"new": false
+				},
+				"index": 5
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "The Pokémon Company",
+						"id": 210
+					},
+					"display_genre": "RPG / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.78,
+						"votes": 11990,
+						"star1": 198,
+						"star2": 186,
+						"star3": 499,
+						"star4": 1857,
+						"star5": 9250
+					},
+					"release_date_on_eshop": "2017-11-17",
+					"release_date_on_retail": "2017-11-17",
+					"price_on_retail": "$39.99",
+					"price_on_retail_detail": {
+						"amount": "$39.99",
+						"currency": "USD",
+						"raw_value": "39.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon Ultra Moon",
+					"id": 50010000043878,
+					"product_code": "CTR-N-A2BA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/c252b97a4e85648f868dc21b8e2703abbcb297cf6780cc76a37191d66e7d3e89.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/1fcf79472b124573b539acf1453b3c4f5cb2ca772c114e41c0d703b0da4ce1da.jpg",
+					"new": false
+				},
+				"index": 6
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Simulation / Multiplayer / Other",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.82,
+						"votes": 10285,
+						"star1": 157,
+						"star2": 116,
+						"star3": 366,
+						"star4": 1386,
+						"star5": 8260
+					},
+					"release_date_on_eshop": "2016-12-08",
+					"release_date_on_retail": "2016-12-08",
+					"price_on_retail": "$19.99",
+					"price_on_retail_detail": {
+						"amount": "$19.99",
+						"currency": "USD",
+						"raw_value": "19.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Animal Crossing™: New Leaf\nWelcome amiibo",
+					"id": 50010000041979,
+					"product_code": "CTR-P-EAAE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/04329073b70e37b769fd18c42b5fa560a521972ed843967f6c5580eff62f3b37.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/448bd635e777e509aafcbeff25fa8c3a76b7a3ae9df762ff28195800dcfb865d.jpg",
+					"new": false
+				},
+				"index": 7
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Fighting Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.88,
+						"votes": 109136,
+						"star1": 973,
+						"star2": 691,
+						"star3": 2530,
+						"star4": 12955,
+						"star5": 91987
+					},
+					"release_date_on_eshop": "2014-10-03",
+					"release_date_on_retail": "2014-10-03",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": false,
+					"in_app_purchase": true,
+					"name": "Super Smash Bros.™ for\nNintendo 3DS",
+					"id": 50010000023235,
+					"product_code": "CTR-N-AXCE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3116e331c504441ba64cf7878bb67a5f2b2413a41d33866625b66198143e6bd0.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/a41675794d377cad4fd5ffebb58dbaed6b426d74b64859d2c4e6061b603efc64.jpg",
+					"new": false
+				},
+				"index": 8
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.72,
+						"votes": 3468,
+						"star1": 70,
+						"star2": 60,
+						"star3": 158,
+						"star4": 652,
+						"star5": 2528
+					},
+					"release_date_on_eshop": "2018-10-11",
+					"release_date_on_retail": "2018-10-12",
+					"price_on_retail": "$39.99",
+					"price_on_retail_detail": {
+						"amount": "$39.99",
+						"currency": "USD",
+						"raw_value": "39.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Luigi’s Mansion™",
+					"id": 50010000046175,
+					"product_code": "CTR-N-BGNE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/f0bf0e8aa91fc536917e1592f39c2baf614266aa3d8ccb3c1e59173a4c0e82c2.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/5d646a9c02db4eec1a7fd271c35419df478a435a2ed00c9bc7c647acd3d5897b.jpg",
+					"new": false
+				},
+				"index": 9
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Platformer / Other",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.62,
+						"votes": 22767,
+						"star1": 621,
+						"star2": 642,
+						"star3": 1508,
+						"star4": 4493,
+						"star5": 15503
+					},
+					"release_date_on_eshop": "2016-12-02",
+					"release_date_on_retail": "2016-12-02",
+					"price_on_retail": "$39.99",
+					"price_on_retail_detail": {
+						"amount": "$39.99",
+						"currency": "USD",
+						"raw_value": "39.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Super Mario Maker™\nfor Nintendo 3DS",
+					"id": 50010000041880,
+					"product_code": "CTR-N-AJHE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/c84db41bc6a499d1f126c586647b8f144aa52b03084f00821c4cc8374322d06e.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0d383c17ac0ae396ee431b0c8525e300a2abab246c232bdfbdc58b891911d712.jpg",
+					"new": false
+				},
+				"index": 10
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "The Pokémon Company",
+						"id": 210
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.85,
+						"votes": 36476,
+						"star1": 427,
+						"star2": 305,
+						"star3": 1138,
+						"star4": 4815,
+						"star5": 29791
+					},
+					"release_date_on_eshop": "2014-11-21",
+					"release_date_on_retail": "2014-11-28",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon™ Omega Ruby",
+					"id": 50010000024797,
+					"product_code": "CTR-N-ECRA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/315ede3c9625605ac9d6520d7d9669a3ee7feb872b03a6419b50fa33df907245.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/bf3ea4081dfa91449600264c2a36f04feea98d3d1241acf174181bbb0dfb29ca.jpg",
+					"new": false
+				},
+				"index": 11
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Platformer",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.76,
+						"votes": 22066,
+						"star1": 222,
+						"star2": 243,
+						"star3": 948,
+						"star4": 4240,
+						"star5": 16413
+					},
+					"release_date_on_eshop": "2014-05-02",
+					"release_date_on_retail": "2014-05-02",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Kirby™: Triple Deluxe",
+					"id": 50010000021573,
+					"product_code": "CTR-N-BALE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e31a98f675d86699e37dbde4fedbf981c1a26d1fa3719386066b09397c411cea.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/9986c1af8f4355519b6e3bcd1a835e66f4652a04438a71d263cd536a65251de4.jpg",
+					"new": false
+				},
+				"index": 12
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "The Pokémon Company",
+						"id": 210
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.85,
+						"votes": 34699,
+						"star1": 328,
+						"star2": 270,
+						"star3": 1038,
+						"star4": 4850,
+						"star5": 28213
+					},
+					"release_date_on_eshop": "2014-11-21",
+					"release_date_on_retail": "2014-11-28",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon™ Alpha Sapphire",
+					"id": 50010000024798,
+					"product_code": "CTR-N-ECLA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/495161009208913de73a6e0730ae1edc529b83e7dc7b936c5730729fae6ef559.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/8204687687da2f19dc9214ae797248fcb66a1cb857edb5ba69069465caa38c49.jpg",
+					"new": false
+				},
+				"index": 13
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.91,
+						"votes": 178811,
+						"star1": 2021,
+						"star2": 1413,
+						"star3": 3653,
+						"star4": 15730,
+						"star5": 155994
+					},
+					"release_date_on_eshop": "2012-10-18",
+					"release_date_on_retail": "2011-06-19",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "2011-06-03",
+					"name": "The Legend of Zelda™:\nOcarina of Time™ 3D",
+					"id": 50010000000541,
+					"product_code": "CTR-N-AQEE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/7dce2541504053c737e91fe9fae1e5c79a928d530e6de9b34fb7378d030efe29.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/b4d4e94405f84ff04933a784a06f8a91a345d1934365334536692f42ee7f0424.jpg",
+					"new": false
+				},
+				"index": 14
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Party / Multiplayer / Other",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.5,
+						"votes": 4182,
+						"star1": 147,
+						"star2": 157,
+						"star3": 353,
+						"star4": 877,
+						"star5": 2648
+					},
+					"release_date_on_eshop": "2017-11-10",
+					"release_date_on_retail": "2017-11-10",
+					"price_on_retail": "$39.99",
+					"price_on_retail_detail": {
+						"amount": "$39.99",
+						"currency": "USD",
+						"raw_value": "39.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Mario Party™: The Top 100",
+					"id": 50010000043879,
+					"product_code": "CTR-N-BHRE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/be38a612d2a41195e9c4fa3d6f1b5e9a6bf3d2e2930b01f7ba6da595f50eb0ed.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/9556af51bc9fbb83d37d8c55c9e13fed5e80743bdcd97f25fa02aba32873c66c.jpg",
+					"new": false
+				},
+				"index": 15
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.73,
+						"votes": 158950,
+						"star1": 3507,
+						"star2": 2828,
+						"star3": 7898,
+						"star4": 25674,
+						"star5": 119043
+					},
+					"release_date_on_eshop": "2012-08-19",
+					"release_date_on_retail": "2012-08-19",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "New Super Mario Bros.™ 2",
+					"id": 50010000010467,
+					"product_code": "CTR-N-ABEE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/15e487587585fc84329481247c19a466848abe340027494399241eb7932fdc6a.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/c3de13810cc89d9171f351bf550f6d9a4aec400a2d92ccb2f0e6b88c5ae4bd25.jpg",
+					"new": false
+				},
+				"index": 16
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "The Pokémon Company",
+						"id": 210
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.86,
+						"votes": 85011,
+						"star1": 779,
+						"star2": 634,
+						"star3": 2339,
+						"star4": 11010,
+						"star5": 70249
+					},
+					"release_date_on_eshop": "2013-10-12",
+					"release_date_on_retail": "2013-10-12",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon™ X",
+					"id": 50010000014807,
+					"product_code": "CTR-N-EKJA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/f4fe4829ef40ce208128c6f91982acec1216dab65136890b539831150bcae90f.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/fa284513af0a00c0c5b30dbf20e6ba71f5d20a80d2ea394f930cbb2f980c99a3.jpg",
+					"new": false
+				},
+				"index": 17
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "The Pokémon Company",
+						"id": 210
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.86,
+						"votes": 80973,
+						"star1": 792,
+						"star2": 623,
+						"star3": 2379,
+						"star4": 10430,
+						"star5": 66749
+					},
+					"release_date_on_eshop": "2013-10-12",
+					"release_date_on_retail": "2013-10-12",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon™ Y",
+					"id": 50010000014813,
+					"product_code": "CTR-N-EK2A",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ef08a6593f2ea3da06962b41aca47f69ada91c7895d7fb3704a4042c418403d6.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0bf29d3585255807676e926ae3dd3b7d069f1677ca02646dd932ec4602b62f9e.jpg",
+					"new": false
+				},
+				"index": 18
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.86,
+						"votes": 31027,
+						"star1": 431,
+						"star2": 416,
+						"star3": 917,
+						"star4": 3591,
+						"star5": 25672
+					},
+					"release_date_on_eshop": "2015-02-13",
+					"release_date_on_retail": "2015-02-13",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "The Legend of Zelda™:\nMajora’s Mask 3D",
+					"id": 50010000027796,
+					"product_code": "CTR-N-AJRE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/4baa81fa9b8e74b108a40de7ba7cd9f85626bce29ae360afd5a2234c94550137.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/8c3ddb62e9377e138c0908a0c39f5d4552e00cce69f8d718cc9fc7de9ba02626.jpg",
+					"new": false
+				},
+				"index": 19
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Strategy / RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.77,
+						"votes": 7915,
+						"star1": 76,
+						"star2": 116,
+						"star3": 372,
+						"star4": 1272,
+						"star5": 6079
+					},
+					"release_date_on_eshop": "2016-02-19",
+					"release_date_on_retail": "2016-02-19",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Fire Emblem Fates: Birthright",
+					"id": 50010000038919,
+					"product_code": "CTR-N-BFXE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ec1e964d1ef2857d7f62d134a24a901c3748f92a0137d1a148b78746a11f9091.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ef94f974c06e8e359017b00a0c746a40ce7eacec8645560cf94315d5a3697d20.jpg",
+					"new": false
+				},
+				"index": 20
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Strategy / RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.77,
+						"votes": 5983,
+						"star1": 85,
+						"star2": 92,
+						"star3": 242,
+						"star4": 992,
+						"star5": 4572
+					},
+					"release_date_on_eshop": "2016-02-19",
+					"release_date_on_retail": "2016-02-19",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Fire Emblem Fates: Conquest",
+					"id": 50010000038918,
+					"product_code": "CTR-N-BFYE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/426556d2260566f8ea96f0636ad54e3ea2dbc417a1d0da19feda7e29604d9df5.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/48c950fd4b87c0e836274131fbe824a4b20d6dbf649c6dac60a03294b055860a.jpg",
+					"new": false
+				},
+				"index": 21
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Life simulation",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.67,
+						"votes": 37941,
+						"star1": 569,
+						"star2": 727,
+						"star3": 2426,
+						"star4": 7586,
+						"star5": 26633
+					},
+					"release_date_on_eshop": "2014-06-06",
+					"release_date_on_retail": "2014-06-06",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Tomodachi Life™",
+					"id": 50010000021073,
+					"product_code": "CTR-N-EC6E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/360361ca4e5756586c1f29e85bb10732ce24116e1d712d8738d7ef80b2b6d6bc.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/dc16bbe1c6238e523380ae28caca41273acd92a08ae5698afbf61c36b99e0d22.jpg",
+					"new": false
+				},
+				"index": 22
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "WB Games",
+						"id": 1004
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.55,
+						"votes": 6287,
+						"star1": 313,
+						"star2": 231,
+						"star3": 451,
+						"star4": 976,
+						"star5": 4316
+					},
+					"release_date_on_eshop": "2015-06-12",
+					"release_date_on_retail": "2015-06-12",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "LEGO® Jurassic World™ ",
+					"id": 50010000034275,
+					"product_code": "CTR-N-BLJE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/23437ef27d792d81e42af217b176695c4242470ee581996b5de3a1de57ed1a8d.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/903ba1ff6f9e449fb9762d3e57d877fb7b4e2863d4e35c768f7388de555ad678.jpg",
+					"new": false
+				},
+				"index": 23
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Party",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.37,
+						"votes": 20292,
+						"star1": 845,
+						"star2": 1007,
+						"star3": 2244,
+						"star4": 4507,
+						"star5": 11689
+					},
+					"release_date_on_eshop": "2013-11-22",
+					"release_date_on_retail": "TBD",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Mario Party™ Island Tour",
+					"id": 50010000017735,
+					"product_code": "CTR-N-ATSE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3b37b9aaf125edb9120cd4739f8665b0684b3582d78831bac01abee595ab6ea3.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/f18f52d2bcfd0492f04b14b9905ee111537d5488463997389b984c486d471853.jpg",
+					"new": false
+				},
+				"index": 24
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "CAPCOM",
+						"id": 41
+					},
+					"display_genre": "Action / RPG / Multiplayer",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.85,
+						"votes": 18117,
+						"star1": 244,
+						"star2": 253,
+						"star3": 563,
+						"star4": 2122,
+						"star5": 14935
+					},
+					"release_date_on_eshop": "2015-02-13",
+					"release_date_on_retail": "2015-02-13",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": true,
+					"in_app_purchase": true,
+					"name": "Monster Hunter™ 4 Ultimate",
+					"id": 50010000028535,
+					"product_code": "CTR-N-BFGE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/22c6794f065df4bf310b4a4758c1614f25a3bbda013bfd2931e4035d3622e337.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d7959e4b0d01891306b18709ae364eafc8712605514ffd9e81940e7aba292f19.jpg",
+					"new": false
+				},
+				"index": 25
+			}],
+			"total": 25
+		},
+		"id": 1071111,
+		"type": "normal",
+		"component": "title",
+		"alias": "f5e9f8ee934b2fc7a8420e2c275a1ed8"
+	}
+}

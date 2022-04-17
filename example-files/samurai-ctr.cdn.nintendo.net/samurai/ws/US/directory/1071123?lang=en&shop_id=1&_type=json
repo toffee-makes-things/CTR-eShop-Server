@@ -1,0 +1,184 @@
+{
+	"directory": {
+		"name": "Pokémon Crystal",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/735ad5df91059abaf97dad4a2501a035f96641de10e287cf804eaac43b2a27b7.jpg",
+		"icon_width": 128,
+		"icon_height": 96,
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/a63873d33d8d6424e31bc158bcf4f3efea670968cef05149df9cb41a010ec826.jpg",
+		"contents": {
+			"content": [{
+				"title": {
+					"platform": {
+						"name": "Game Boy Color",
+						"id": 22,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "RPG / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.81,
+						"votes": 3510,
+						"star1": 40,
+						"star2": 23,
+						"star3": 136,
+						"star4": 564,
+						"star5": 2747
+					},
+					"release_date_on_eshop": "2018-01-26",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon™ Crystal Version\n(English Version)",
+					"id": 50010000044716,
+					"product_code": "CTR-N-QBRA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d021f2f90718052a4eb3d49a12050a5e6bc196849446422f03349193f91d8af1.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/9243ae7bf59ebbab6f12b45b6cc6194b63c42b6d647c42e9a1e0023176c7f85d.jpg",
+					"new": false
+				},
+				"index": 1
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy Color",
+						"id": 22,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "RPG / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.83,
+						"votes": 6,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 1,
+						"star5": 5
+					},
+					"release_date_on_eshop": "2018-01-26",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon™ Crystal Version\n(French Version)",
+					"id": 50010000044736,
+					"product_code": "CTR-N-QBXA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d021f2f90718052a4eb3d49a12050a5e6bc196849446422f03349193f91d8af1.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/9243ae7bf59ebbab6f12b45b6cc6194b63c42b6d647c42e9a1e0023176c7f85d.jpg",
+					"new": false
+				},
+				"index": 2
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy Color",
+						"id": 22,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "RPG / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.87,
+						"votes": 177,
+						"star1": 0,
+						"star2": 0,
+						"star3": 5,
+						"star4": 24,
+						"star5": 148
+					},
+					"release_date_on_eshop": "2018-01-26",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon™ Crystal Version\n(Spanish Version)",
+					"id": 50010000044741,
+					"product_code": "CTR-N-QB2A",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d021f2f90718052a4eb3d49a12050a5e6bc196849446422f03349193f91d8af1.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/9243ae7bf59ebbab6f12b45b6cc6194b63c42b6d647c42e9a1e0023176c7f85d.jpg",
+					"new": false
+				},
+				"index": 3
+			}],
+			"total": 3
+		},
+		"id": 1071123,
+		"type": "normal",
+		"component": "title"
+	}
+}

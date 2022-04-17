@@ -1,0 +1,124 @@
+{
+	"title": {
+		"formal_name": "NekoBop",
+		"description": "There are Pesky Cat-girls invading your Café, looking for the tastiest Ice Cream in town. They are relentless, and will stop at nothing to eat up all your freshly baked goods, and Ice-cream supply! To counter this, Behold… the Neko Hammer. You can lightly bop the Cat-girls on the head with it to repel them away from your tasty treats! But can you get rid of them all before they take over your café? Find out now by Playing “NekoBop”!",
+		"genres": {
+			"genre": [{
+				"name": "Arcade",
+				"id": 2
+			}],
+			"length": 1
+		},
+		"keywords": {},
+		"features": {
+			"feature": [{
+				"id": 57,
+				"name": "Enhanced for New 3DS",
+				"required": false,
+				"type": 9
+			}]
+		},
+		"languages": {
+			"language": [{
+				"iso_code": "en",
+				"name": "English"
+			}]
+		},
+		"number_of_players": "1 player",
+		"disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>Game is compatible with the Nintendo 3DS family of systems. When played on New Nintendo 3DS XL, additional features may be available. Visit Nintendo.com for more details.",
+		"copyright": {
+			"text": "©Zachary Kirtz\n<br>©Michael Boucher"
+		},
+		"screenshots": {
+			"screenshot": [{
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/502dc38c20951f8ea46741836c315f85e7b51ee1715b429833609db72e5b6f29.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/ae85291761461987adb0e1ca20ca36abbb2aa449c39fc7f3992275843c313ea5.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/ee410f7c1494c66b37a7b83094e9506243880833647b278e4fc5b272856a4589.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/c640d94a06c52dc82daac5749d518a85b33f3bafea5a478ee997ebaa4377e9c1.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/90f1996d1f862a5248c85e6aa8c836ca4d3047cb22f6b5864b942162905553c8.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/ea93140942d589c1bb0695455c4f9b290a4f0efc0fb0614d16c5d869365661c1.jpg",
+					"type": "lower"
+				}]
+			}]
+		},
+		"ticket_available": false,
+		"data_size": 41470820,
+		"download_code_sales": false,
+		"download_card_sales": {
+			"available": false
+		},
+		"name": "NekoBop",
+		"thumbnails": {
+			"thumbnail": [{
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/a6c40faf5e8447c29405a2b6a765c9bbe11fc4aa7b070162b6844eb9d7e42a58.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}]
+		},
+		"id": 50010000049435,
+		"platform": {
+			"name": "New 3DS Download Only",
+			"id": 1001,
+			"device": "CTR",
+			"category": 8
+		},
+		"publisher": {
+			"name": "Zachary Kirtz",
+			"id": 3898
+		},
+		"product_code": "KTR-N-CD6E",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/42930f4fefdf6ae469f332308c95ddba8f3bf0dc0627ba68e8f6b7e92920dc4a.jpg",
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e5768a0582d32cee84bb22a8151af61e0d1c5cf4c3955ccc29ba863bcd7161ce.jpg",
+		"display_genre": "Arcade",
+		"rating_info": {
+			"rating_system": {
+				"name": "ESRB",
+				"id": 202
+			},
+			"rating": {
+				"icons": {
+					"icon": [{
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+						"type": "normal"
+					}, {
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+						"type": "small"
+					}]
+				},
+				"name": "E",
+				"age": 6,
+				"id": 2
+			},
+			"descriptors": {}
+		},
+		"release_date_on_eshop": "2022-04-07",
+		"retail_sales": false,
+		"eshop_sales": true,
+		"web_sales": true,
+		"demo_available": false,
+		"aoc_available": false,
+		"in_app_purchase": false,
+		"top_image": {
+			"type": "screenshot",
+			"url": "https://kanzashi-ctr.cdn.nintendo.net/i/502dc38c20951f8ea46741836c315f85e7b51ee1715b429833609db72e5b6f29.jpg"
+		},
+		"new": true,
+		"public": true
+	}
+}

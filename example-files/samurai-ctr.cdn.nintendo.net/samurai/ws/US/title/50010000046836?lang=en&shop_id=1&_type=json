@@ -1,0 +1,219 @@
+{
+	"title": {
+		"formal_name": "Persona Q2: New Cinema Labyrinth",
+		"description": "Welcome to the ultimate Persona experience. The sequel to the beloved dungeon crawler, Persona Q2, arrives on Nintendo 3DS™. Join the cast of P3, P4, and P5 as they are thrown into a new and mysterious world.\n<br>\n<br>Can our favorite heroes defeat monsters, discover treasure, and navigate their way out of the labyrinth?",
+		"genres": {
+			"genre": [{
+				"name": "RPG",
+				"id": 8
+			}, {
+				"name": "Adventure",
+				"id": 4
+			}],
+			"length": 2
+		},
+		"keywords": {},
+		"features": {
+			"feature": [{
+				"id": 14,
+				"name": "Supports StreetPass",
+				"required": false,
+				"type": 5
+			}]
+		},
+		"languages": {
+			"language": [{
+				"iso_code": "en",
+				"name": "English"
+			}]
+		},
+		"number_of_players": "1 player",
+		"disclaimer": "Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+		"copyright": {
+			"text": "© ATLUS. © SEGA. All rights reserved. ATLUS and SEGA are registered in the U.S. Patent and Trademark Office. ATLUS, the ATLUS logo and PERSONA are either registered trademarks or trademarks of ATLUS Co., Ltd. or its affiliates. NEW CINEMA LABYRINTH is either a registered trademark or trademark of SEGA Holdings Co., Ltd. or its affiliates."
+		},
+		"screenshots": {
+			"screenshot": [{
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/6213a183fd79f64511fd12058b3b7807f72d9dc6b715debccb584b5c88f4f437.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/c3d21d0db6513448e5d32dc8c670b7de700c24a0519e865d6c9d311c7910a76d.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/53587080416b3543bc7f71eb98a188603071eef08d6fa149f666e86388be835c.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/e6fbdbfb6e0c68c4f6473251f9173fe4c7ad6fe3adaf230d807ccaab314414b0.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/0f98c4d3997ed2ea7f675d6b81a7f70b4f19caad6378cb723207690d586b80cf.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/b82bdd1afdfdd9f3490aa4a2bc8dfc225cc920d3e89612842bb73e52e270fd1c.jpg",
+					"type": "lower"
+				}]
+			}]
+		},
+		"preference": {
+			"target_player": {
+				"everyone": 24,
+				"gamers": 76
+			},
+			"play_style": {
+				"casual": 26,
+				"intense": 74
+			}
+		},
+		"web_sites": {
+			"web_site": [{
+				"name": "Official Website for Persona Q2: New Cinema Labyrinth",
+				"url": "https://atlus.com/personaq2/",
+				"official": false
+			}]
+		},
+		"movies": {
+			"movie": [{
+				"name": "Persona Q2:\nNew Cinema Labyrinth Trailer",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ee551c3697fb93366d2450a9278b7b23a9431c91f1c5d8614e7f432693042e3d.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0d5e4a3a11a54b1a0ec08c54737807a6823be66ad0757ad919d927e0396f7545.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/fd17587a7e3edc31f9f88a19ff2143a0b73b733c31e9d437efbc0a21724703bf.moflex",
+						"width": 400,
+						"height": 224,
+						"dimension": "2d",
+						"play_time_sec": 105
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/715503ff499459c02470c602250dce1cbd063735074bfac7d729e9ad6f1f172f.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/f9fd343a778ba3f44fb995a127d7c18a13418511ec10753562c91b0bd4387e4d.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "M",
+						"age": 17,
+						"id": 5
+					}
+				},
+				"id": 50040000052284,
+				"new": false
+			}]
+		},
+		"ticket_available": false,
+		"data_size": 2846243684,
+		"download_code_sales": false,
+		"download_card_sales": {
+			"available": false
+		},
+		"name": "Persona Q2: \n<br>New Cinema Labyrinth",
+		"thumbnails": {
+			"thumbnail": [{
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/f580467764f26b645d7faaa75bff6f8e9adf6a85e9cda63e7459bacb73958a4e.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}, {
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/ae400bbc5f08a1b137540b7b8f7be33ed7e1aff7a76f076c3f90c97bf7cb544f.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}, {
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/eb6161cdc172ca957ea224ca65eb548901693991e8c95e876b91547bebc73aac.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}]
+		},
+		"id": 50010000046836,
+		"platform": {
+			"name": "Nintendo 3DS Retail/Download",
+			"id": 103,
+			"device": "CTR",
+			"category": 8
+		},
+		"publisher": {
+			"name": "SEGA",
+			"id": 231
+		},
+		"product_code": "CTR-P-AQ2E",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/1b754f48ceefe03a56360b829e22621f722ea6ab1e5160badeb74f86c4e4a8d6.jpg",
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/47fd498ce555c9b805ffb66fa2802a2b09eae053295acca4d18fc0d7cec90e71.jpg",
+		"display_genre": "RPG / Adventure",
+		"rating_info": {
+			"rating_system": {
+				"name": "ESRB",
+				"id": 202
+			},
+			"rating": {
+				"icons": {
+					"icon": [{
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/715503ff499459c02470c602250dce1cbd063735074bfac7d729e9ad6f1f172f.jpg",
+						"type": "normal"
+					}, {
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/f9fd343a778ba3f44fb995a127d7c18a13418511ec10753562c91b0bd4387e4d.jpg",
+						"type": "small"
+					}]
+				},
+				"name": "M",
+				"age": 17,
+				"id": 5
+			},
+			"descriptors": {
+				"descriptor": [{
+					"name": "Language"
+				}, {
+					"name": "Partial Nudity"
+				}, {
+					"name": "Sexual Themes"
+				}, {
+					"name": "Violence"
+				}]
+			}
+		},
+		"star_rating_info": {
+			"score": 4.85,
+			"votes": 720,
+			"star1": 7,
+			"star2": 2,
+			"star3": 18,
+			"star4": 109,
+			"star5": 584
+		},
+		"release_date_on_eshop": "2019-06-04",
+		"release_date_on_retail": "2019-06-04",
+		"price_on_retail": "$39.99",
+		"price_on_retail_detail": {
+			"amount": "$39.99",
+			"currency": "USD",
+			"raw_value": "39.99"
+		},
+		"retail_sales": true,
+		"eshop_sales": true,
+		"web_sales": true,
+		"demo_available": false,
+		"aoc_available": false,
+		"in_app_purchase": false,
+		"top_image": {
+			"type": "screenshot",
+			"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6213a183fd79f64511fd12058b3b7807f72d9dc6b715debccb584b5c88f4f437.jpg"
+		},
+		"new": false,
+		"public": true
+	}
+}

@@ -1,0 +1,404 @@
+{
+	"title": {
+		"formal_name": "Star Fox 64™ 3D",
+		"description": "Fox McCloud is back in the remastered\nNintendo classic, Star Fox 64 3D!<br><br>\n\nThe single-player space-blasting adventure at the heart of Star Fox 64 3D, fondly remembered by many fans and often thought of as the best game in the Star Fox series, offers a cinematic adventure unlike any other. As Fox, it’s your duty to lead the Star Fox team into battle against the mad scientist Andross and his evil forces. Each mission takes place on a different\nplanet of the Lylat system, culminating in a final showdown with Andross at his\nhome planet Venom. Play Nintendo 64\nmode to recreate the original challenge of Star Fox 64, or take off in\nNintendo 3DS mode to battle using the new gyro controls and the Circle Pad.\n<br><br>\nThe new Score Attack mode allows you to replay any mission you’ve cleared in the main game and shoot for\nthe high score. Each mission has three\npossible medals—gold, silver, and bronze—that can be earned by scoring enough hits.\n<br><br>\nBattle mode, also new to Star Fox 64 3D, is a robust local-wireless multiplayer mode that brings a whole new level of competition to the Star Fox experience. Challenge up to three of your friends and square off in aerial combat via Download Play, which requires only one Game Card. Opt to use the Nintendo 3DS system’s inner camera to display a live video feed of everyone's faces during the battle, enhancing the fun and personalizing the multiplayer experience. Featuring four unique battle levels, several all-new power-ups, and three battle types,\nStar Fox 64 3D lets you face off against your friends to prove once and\nfor all who is the ultimate pilot.\n<br><br>\nWith three game modes, new gyro controls that allow you to steer the Arwing by moving the Nintendo 3DS system, and fully voiced dialogue,\nyou'll find that the Star Fox team is back in top form. Good luck...",
+		"genres": {
+			"genre": [{
+				"name": "Action",
+				"id": 3
+			}, {
+				"name": "Adventure",
+				"id": 4
+			}, {
+				"name": "Shooter",
+				"id": 11
+			}, {
+				"name": "Multiplayer",
+				"id": 92
+			}],
+			"length": 4
+		},
+		"keywords": {
+			"keyword": ["3D", "Multiplayer", "Nintendo"]
+		},
+		"features": {
+			"feature": [{
+				"id": 6,
+				"name": "Displays 3D Visuals",
+				"required": false,
+				"type": 4
+			}, {
+				"id": 16,
+				"name": "Supports Download Play",
+				"required": false,
+				"type": 5
+			}]
+		},
+		"languages": {
+			"language": [{
+				"iso_code": "en",
+				"name": "English"
+			}, {
+				"iso_code": "es",
+				"name": "Spanish"
+			}, {
+				"iso_code": "fr",
+				"name": "French"
+			}]
+		},
+		"number_of_players": "1 - 4 players",
+		"disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+		"copyright": {
+			"text": "©1997-2011 Nintendo.<br>\nCodeveloped by Q-Games."
+		},
+		"screenshots": {
+			"screenshot": [{
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/0d0d91e50ffe2a8247f3e6379d1a15944e39c4154178683cc5a51f252025b30c.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/53449ada425508f1df68f6f68f4ac7f10b4ab10773c1862e414186ef9057e228.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/c8606efaeb5a6b1ad0b8b12d7d6088d58fa5a5bcf35b9d0af3f1d1af1889b3a6.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/c501f4ee38e06b7bd7d1a6dd19e4c08531627204065baad3e6b53ae40119e022.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/943b326fecfb508f97320e8002723d5dd537f936a0ede0995ab9989ab9e827cc.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/6cff290fa0fd772f625abe4811040e5048e34942c444514d1d017f7d97c6e85b.jpg",
+					"type": "lower"
+				}]
+			}]
+		},
+		"preference": {
+			"target_player": {
+				"everyone": 45,
+				"gamers": 55
+			},
+			"play_style": {
+				"casual": 38,
+				"intense": 62
+			}
+		},
+		"web_sites": {
+			"web_site": [{
+				"name": "Star Fox 64 3D",
+				"url": "http://starfox.com",
+				"official": false
+			}]
+		},
+		"movies": {
+			"movie": [{
+				"name": "Star Fox 64™ 3D\nRelease Trailer",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d469edbd32babe27a22cd1e9a592d2b4ed03f54f78221700c454b5b7d549995e.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ba44cc91fe94283a5da6c1f41f381aefabda8aa843de56c6266ecb0bc0243fc3.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/97a8fcc8df03de3737a1cfa8af0cef2cee8834fe1b41c7397630cc8493cd7cb8.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "3d",
+						"play_time_sec": 142
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000001523,
+				"new": false
+			}, {
+				"name": "Star Fox 64™ 3D\nAlternate Paths Video",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d2ec745a832efbb77b4b226d7a1cffe01259651d3e15606aaa8dd90296a22d21.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/b4d9d8c57638505bc1dac14a3318b4e05d7918da0af2377c88fad5ac99a9a8a6.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/81162008cf0f5890d3b6857a6b3c441a53f867e158823ddaee7c113dfea79c44.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "3d",
+						"play_time_sec": 141
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000001484,
+				"new": false
+			}, {
+				"name": "Star Fox 64™ 3D\nBattle Mode Video",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3c650731d6cadbfb4a40ac77bf3a1cb39dcae55a89fcd40255c243be0cb8458c.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e366016b21b326b121603a0486fdc9c59d29d261444dbc26542d1194c7d01709.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/ef5e3063baa170edf04bd8e91c5e2e1e6543a111ffffe083baee98a3a2521832.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "3d",
+						"play_time_sec": 127
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000001433,
+				"new": false
+			}, {
+				"name": "Star Fox 64™ 3D\nSpecial Vehicles Video",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d78ca1b3a0c7728f5eef27dceb7866f21644334eb483a8eee52506deb5bf3c87.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/2fbb298f87c29a7791b0905b8ee542f8a9a8042d7a3433d6baa4341d3eff372a.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/10c52bf7e545eff94a57f78ef5e2d65ea1c4eda63e2d7e1e68c5121f6486e011.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "3d",
+						"play_time_sec": 95
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000001409,
+				"new": false
+			}, {
+				"name": "Star Fox 64™ 3D Video",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/34c2981fbc341f570e2746c771020e0eef62db43f6ebfdb66eeea781b6298307.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/563b23c48cd008a64bb5a8bd876ce832d40faeaafc03ba6c1aa5f37f50f8c0ba.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/c6c84cf19eebc080bc9bea7faa2773fb06166accf387d125314b6d4a20bf3ef7.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "3d",
+						"play_time_sec": 68
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000001373,
+				"new": false
+			}]
+		},
+		"ticket_available": false,
+		"data_size": 604658580,
+		"download_code_sales": true,
+		"download_card_sales": {
+			"available": false
+		},
+		"name": "Star Fox 64™ 3D",
+		"thumbnails": {
+			"thumbnail": [{
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/e4fee107df926c251aa91bfec2459762d8cd4b72701257178310e3eeff73f2fd.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}, {
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/524619aa5fd51766b981ca91ef1d64dcc948a09b6d4c074c0b25bf1a74433eb3.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}, {
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/7ef513148e7c0c310dac70d1398252d5ab60b182ea4b82120f80b520113ef6ed.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}]
+		},
+		"id": 50010000007116,
+		"platform": {
+			"name": "Nintendo 3DS Retail/Download",
+			"id": 103,
+			"device": "CTR",
+			"category": 8
+		},
+		"publisher": {
+			"name": "Nintendo",
+			"id": 190
+		},
+		"product_code": "CTR-N-ANRE",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/01b3c9e14034f3a8308b97da8487fe4003a3d188f274ba9f51744ca1fc063438.jpg",
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3f6de422cf60fc0f2b09006cad46de0f00d5372a46078af105919d66dec90316.jpg",
+		"display_genre": "Action / Shooter",
+		"rating_info": {
+			"rating_system": {
+				"name": "ESRB",
+				"id": 202
+			},
+			"rating": {
+				"icons": {
+					"icon": [{
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+						"type": "normal"
+					}, {
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+						"type": "small"
+					}]
+				},
+				"name": "E10+",
+				"age": 10,
+				"id": 3
+			},
+			"descriptors": {
+				"descriptor": [{
+					"name": "Fantasy Violence"
+				}]
+			}
+		},
+		"star_rating_info": {
+			"score": 4.56,
+			"votes": 39499,
+			"star1": 979,
+			"star2": 1012,
+			"star3": 2952,
+			"star4": 9545,
+			"star5": 25011,
+			"conditional_ratings": {
+				"conditional_rating": [{
+					"score": 4.43,
+					"votes": 18624,
+					"sex": "male",
+					"age": "0-19"
+				}, {
+					"score": 4.51,
+					"votes": 9026,
+					"sex": "male",
+					"age": "20-39"
+				}, {
+					"score": 4.38,
+					"votes": 559,
+					"sex": "male",
+					"age": "40-"
+				}, {
+					"score": 4.18,
+					"votes": 1011,
+					"sex": "female",
+					"age": "0-19"
+				}, {
+					"score": 4.41,
+					"votes": 534,
+					"sex": "female",
+					"age": "20-39"
+				}, {
+					"score": 3.88,
+					"votes": 108,
+					"sex": "female",
+					"age": "40-"
+				}]
+			}
+		},
+		"release_date_on_eshop": "2012-10-18",
+		"release_date_on_retail": "2011-09-09",
+		"retail_sales": true,
+		"eshop_sales": true,
+		"web_sales": true,
+		"demo_available": false,
+		"aoc_available": false,
+		"in_app_purchase": false,
+		"top_image": {
+			"type": "screenshot",
+			"url": "https://kanzashi-ctr.cdn.nintendo.net/i/0d0d91e50ffe2a8247f3e6379d1a15944e39c4154178683cc5a51f252025b30c.jpg"
+		},
+		"release_date_on_original": "2011-08-11",
+		"new": false,
+		"public": true
+	}
+}

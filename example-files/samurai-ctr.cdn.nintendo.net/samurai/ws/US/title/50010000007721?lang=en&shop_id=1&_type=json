@@ -1,0 +1,288 @@
+{
+	"title": {
+		"formal_name": "Sonic Generations™",
+		"description": "The ultimate celebration of 20 years in Sonic gaming, Sonic Generations delivers the definitive gaming experience for Sonic fans new and old. \n<br><br>\nSonic’s universe is thrown into chaos when a mysterious new power comes into force, creating ‘time holes’ which take Sonic and his friends back in time. While there, Sonic runs into some very familiar characters from his past including a younger, classic version of himself! Now they must defeat their enemies, save their friends, and find out who is behind this diabolical deed.\n<br><br>\nPlay as both Classic Sonic and Modern Sonic in the ultimate Sonic experience. Master the moves of each character as they race through each environment on their own specially designed track.\n<br><br>\n2 Player Versus Mode<br>\nTake on your friends and earn valuable status points.\n<br><br>\nStreetPass<br>\nCollect new content and unlock bonus material, increasing variety, interaction and replayability.",
+		"genres": {
+			"genre": [{
+				"name": "Action",
+				"id": 3
+			}, {
+				"name": "Adventure",
+				"id": 4
+			}, {
+				"name": "Multiplayer",
+				"id": 92
+			}],
+			"length": 3
+		},
+		"keywords": {
+			"keyword": ["Sonic", "3D Games", "StreetPass", "SpotPass", "Local Play", "SEGA"]
+		},
+		"features": {
+			"feature": [{
+				"id": 6,
+				"name": "Displays 3D Visuals",
+				"required": false,
+				"type": 4
+			}, {
+				"id": 8,
+				"name": "Supports Local Play",
+				"required": false,
+				"type": 5
+			}, {
+				"id": 14,
+				"name": "Supports StreetPass",
+				"required": false,
+				"type": 5
+			}, {
+				"id": 15,
+				"name": "Supports SpotPass",
+				"required": false,
+				"type": 4
+			}, {
+				"id": 5,
+				"name": "Mii",
+				"icons": {
+					"icon": [{
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/f000ef8e0e846606b656e76d040d658f5f1a1b4d874b041f05ec2b23b718168f.png",
+						"type": "normal"
+					}, {
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/eceee31706e8f2248cb5adcc8af6c185926f7863a43fb7846df62075cbcac78e.jpg",
+						"type": "small"
+					}]
+				},
+				"required": false,
+				"type": 4
+			}, {
+				"id": 30,
+				"name": "Nintendo Network",
+				"icons": {
+					"icon": [{
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/233a88d20a1bc522ae130b8ffb72c35593e0605e0d35ebfbb4168840c2a7ca5e.png",
+						"type": "normal"
+					}, {
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/05a137cb151cc8c6be24849bbc758437727bd14cd847e7c2a3ee4f98f88428a9.jpg",
+						"type": "small"
+					}]
+				},
+				"required": false,
+				"type": 4
+			}]
+		},
+		"languages": {
+			"language": [{
+				"iso_code": "en",
+				"name": "English"
+			}, {
+				"iso_code": "es",
+				"name": "Spanish"
+			}, {
+				"iso_code": "fr",
+				"name": "French"
+			}]
+		},
+		"number_of_players": "1 - 2 players",
+		"disclaimer": "Please use Parental Controls to restrict 3D access for children 6 and under.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+		"copyright": {
+			"text": "SEGA is registered in the U.S. \nPatent and Trademark Office. \nSEGA, the SEGA logo and \nSONIC GENERATIONS are either \nregistered trademarks or trademarks \nof SEGA Corporation. © SEGA. \nAll rights reserved."
+		},
+		"screenshots": {
+			"screenshot": [{
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/3aa266bc0c1d078a2a31719ca41f5d7b407f6743ca23c201157eaf90b06ff3f4.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/7ea42bc8667b5f1f2143acfbdf64d2c0532452cda68d01fb820edce26470f81f.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/38f55c7851713533611061a713dfe32df893a4326cdd836c78f074860ece15c9.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/846a44a08d828279b18f003148471702dfef398d0addd4bf47d0f1f3afaaaf12.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/89c6b56cfdca857d3526d71b33979c45186335d108d82ae04036d8f87f55ee34.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/aa72447935ef49441bf3d4b3480cddc6f334c610dc7b6340bc91cec7e6682c33.jpg",
+					"type": "lower"
+				}]
+			}]
+		},
+		"preference": {
+			"target_player": {
+				"everyone": 56,
+				"gamers": 44
+			},
+			"play_style": {
+				"casual": 54,
+				"intense": 46
+			}
+		},
+		"movies": {
+			"movie": [{
+				"name": "Sonic Generations™ Video",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/40a67746596011f90a475a51dbc28b97fe0f49cf57cbbe4041ae46c61464f546.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/13c73a0de39a823be2046d3f7017f1e4cd5f42392f8189e70d80b88c4b5704b0.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/5b57db821ebfe0f69650fba48f13c357fe3ed072b9a0078f693971fb34a19c02.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 48
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E",
+						"age": 6,
+						"id": 2
+					}
+				},
+				"id": 50040000002299,
+				"new": false
+			}]
+		},
+		"ticket_available": false,
+		"data_size": 637946724,
+		"download_code_sales": false,
+		"download_card_sales": {
+			"available": false
+		},
+		"name": "Sonic Generations™",
+		"thumbnails": {
+			"thumbnail": [{
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2586bbbc941a6e8f8ca135deda763da9d15d57896412f49cb764b37e9de6eb18.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}, {
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c0a933456d42f618394dc0292787ab50c440120919f68e232f13ce9c0cc820fe.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}, {
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6f5ad625dce27fb4886e9b9c5a38c56e55498112d14aedc7cd5aaed38b5fc6d5.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}]
+		},
+		"id": 50010000007721,
+		"platform": {
+			"name": "Nintendo 3DS Retail/Download",
+			"id": 103,
+			"device": "CTR",
+			"category": 8
+		},
+		"publisher": {
+			"name": "SEGA USA",
+			"id": 233
+		},
+		"product_code": "CTR-N-ASNE",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/c0f2430da4a02c3afea7ee9e772f8a64655350b44dff29e0eb9c39d99a0ce4a2.jpg",
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/40a67746596011f90a475a51dbc28b97fe0f49cf57cbbe4041ae46c61464f546.jpg",
+		"display_genre": "Action / Adventure / Platformer",
+		"rating_info": {
+			"rating_system": {
+				"name": "ESRB",
+				"id": 202
+			},
+			"rating": {
+				"icons": {
+					"icon": [{
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+						"type": "normal"
+					}, {
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+						"type": "small"
+					}]
+				},
+				"name": "E",
+				"age": 6,
+				"id": 2
+			},
+			"descriptors": {
+				"descriptor": [{
+					"name": "Mild Cartoon Violence"
+				}]
+			}
+		},
+		"star_rating_info": {
+			"score": 4.52,
+			"votes": 38614,
+			"star1": 1514,
+			"star2": 1426,
+			"star3": 3173,
+			"star4": 7207,
+			"star5": 25294,
+			"conditional_ratings": {
+				"conditional_rating": [{
+					"score": 4.39,
+					"votes": 19409,
+					"sex": "male",
+					"age": "0-19"
+				}, {
+					"score": 4.18,
+					"votes": 2784,
+					"sex": "male",
+					"age": "20-39"
+				}, {
+					"score": 4.52,
+					"votes": 921,
+					"sex": "male",
+					"age": "40-"
+				}, {
+					"score": 4.29,
+					"votes": 2308,
+					"sex": "female",
+					"age": "0-19"
+				}, {
+					"score": 4.18,
+					"votes": 334,
+					"sex": "female",
+					"age": "20-39"
+				}, {
+					"score": 4.26,
+					"votes": 268,
+					"sex": "female",
+					"age": "40-"
+				}]
+			}
+		},
+		"release_date_on_eshop": "2013-09-05",
+		"release_date_on_retail": "2011-11-22",
+		"retail_sales": true,
+		"eshop_sales": true,
+		"web_sales": true,
+		"demo_available": false,
+		"aoc_available": false,
+		"in_app_purchase": false,
+		"top_image": {
+			"type": "screenshot",
+			"url": "https://kanzashi-ctr.cdn.nintendo.net/i/3aa266bc0c1d078a2a31719ca41f5d7b407f6743ca23c201157eaf90b06ff3f4.jpg"
+		},
+		"release_date_on_original": "2011-11-24",
+		"new": false,
+		"public": true
+	}
+}

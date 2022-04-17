@@ -1,0 +1,36 @@
+{
+	"directory": {
+		"name": "Future Releases",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/f2874e97ba0ec41f04fb632c08a181b1f988a37dd574ec18f08cd4f5af42e4ab.jpg",
+		"icon_width": 76,
+		"icon_height": 58,
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/bb94c328b82e792518014a6146bb41c646aca51999ab508ee54bdeb1a67b5e29.jpg",
+		"description": "See what's coming soon to the Nintendo eShop",
+		"contents": {
+			"content": [{
+				"movie": {
+					"name": "Nintendo Direct\n9.13.2018",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/930369dc778c3c5cd82ebda6b949ea762608c5d5980e158bf2c8dc56c4dd1442.jpg",
+					"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/f2b89f5e2ee70b8646635bef14087e60c561bff61e750b4cbf3d1cf5e8f72e40.jpg",
+					"files": {
+						"file": [{
+							"format": "moflex",
+							"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/a3b175ab3be2661cb4bdccecef70ad8733cb06e2589633265881be1077e99bae.moflex",
+							"width": 400,
+							"height": 240,
+							"dimension": "2d",
+							"play_time_sec": 2292
+						}]
+					},
+					"id": 50040000049266,
+					"new": false
+				},
+				"index": 1
+			}],
+			"total": 1
+		},
+		"id": 1071146,
+		"type": "normal",
+		"component": "movie"
+	}
+}

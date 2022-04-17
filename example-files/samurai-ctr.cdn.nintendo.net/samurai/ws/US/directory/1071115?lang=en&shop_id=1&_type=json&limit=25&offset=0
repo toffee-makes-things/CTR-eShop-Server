@@ -1,0 +1,992 @@
+{
+	"directory": {
+		"name": "Kirby™",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/6596aec51b31a3984c4a30362f9326e91a5702566df06e8934518f863ddceb08.jpg",
+		"icon_width": 128,
+		"icon_height": 96,
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/f0871841f1c451bf17ff7e642c8d5bc97b35caf393567ec03e472f94d2722ec1.jpg",
+		"contents": {
+			"content": [{
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.62,
+						"votes": 904,
+						"star1": 26,
+						"star2": 21,
+						"star3": 57,
+						"star4": 190,
+						"star5": 610
+					},
+					"release_date_on_eshop": "2019-03-08",
+					"release_date_on_retail": "2019-03-08",
+					"price_on_retail": "$39.99",
+					"price_on_retail_detail": {
+						"amount": "$39.99",
+						"currency": "USD",
+						"raw_value": "39.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Kirby’s Extra Epic Yarn™",
+					"id": 50010000047595,
+					"product_code": "CTR-N-BE4E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/470e196d01a756aefa79c0bdc4ef4ec9e52e49649e43c62b186835ace3270e7e.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/392e54d8b28e409957e3aa36da9f21b2504738e241e4cc3f36f43e949d25c1a5.jpg",
+					"new": false
+				},
+				"index": 1
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.6,
+						"votes": 1753,
+						"star1": 24,
+						"star2": 51,
+						"star3": 130,
+						"star4": 392,
+						"star5": 1156
+					},
+					"release_date_on_eshop": "2018-01-19",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Kirby™ Battle Royale",
+					"id": 50010000044655,
+					"product_code": "CTR-N-AJ8E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3c958d587ea037115e2a1401ecbe946d113e743dc83c892345d21c1b4927d7a5.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/a380d3c21fb07ce4a47747ac240ff59078144740595b1d88b085a65121017b3d.jpg",
+					"new": false
+				},
+				"index": 2
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.39,
+						"votes": 4862,
+						"star1": 322,
+						"star2": 211,
+						"star3": 440,
+						"star4": 828,
+						"star5": 3061
+					},
+					"release_date_on_eshop": "2018-01-04",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Kirby™ Battle Royale Demo",
+					"id": 50010000044735,
+					"product_code": "CTR-N-BB4E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0a4c6fd7042afe1d25ec9f96a1f068a7af3797bbf1835a2a027f7bca3fc3700c.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0369e5e240e9f49039e7418ee809e439b52cdae95fbb6f976510ab74156dc1d8.jpg",
+					"new": false
+				},
+				"index": 3
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.39,
+						"votes": 1411,
+						"star1": 39,
+						"star2": 63,
+						"star3": 153,
+						"star4": 372,
+						"star5": 784
+					},
+					"release_date_on_eshop": "2017-07-06",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Kirby’s Blowout Blast™",
+					"id": 50010000042835,
+					"product_code": "CTR-N-JHUA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/b111528a458a113100460c188942d7b57f3d6062087900cec1f5c7596edf9737.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e8fa822c28dc1b5e39461523cb117d4293427e6279af4aa6fb1fa8fdc32a98a9.jpg",
+					"new": false
+				},
+				"index": 4
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Multiplayer",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.55,
+						"votes": 19235,
+						"star1": 450,
+						"star2": 556,
+						"star3": 1656,
+						"star4": 4393,
+						"star5": 12180
+					},
+					"release_date_on_eshop": "2017-04-12",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": true,
+					"name": "Team Kirby Clash Deluxe™",
+					"id": 50010000042162,
+					"product_code": "CTR-N-JLKE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/6c1f5c8b633ef65b363560cca80d54ebe0c8a5e54c9b8c331f1c970f2ec19beb.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/39cd81888d576b57874f83fad31df12ae3ed1bf6a58a880cd7da0902ee783734.jpg",
+					"new": false
+				},
+				"index": 5
+			}, {
+				"title": {
+					"platform": {
+						"name": "Super NES",
+						"id": 1004,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Sports / Puzzle",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.7,
+						"votes": 99,
+						"star1": 1,
+						"star2": 2,
+						"star3": 4,
+						"star4": 23,
+						"star5": 69
+					},
+					"release_date_on_eshop": "2016-07-28",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Kirby's Dream Course™",
+					"id": 50010000040558,
+					"product_code": "KTR-N-UAWE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ed8e567b1d0910313fcd5fc7fbc97a4306dc3dfdf92a9b99fb84333c29c7ba2f.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/726fab121a0896953079ba142e245c964c6f3dc85f3468a66b4da3c7779554dc.jpg",
+					"new": false
+				},
+				"index": 6
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.82,
+						"votes": 8324,
+						"star1": 106,
+						"star2": 70,
+						"star3": 273,
+						"star4": 1278,
+						"star5": 6597
+					},
+					"release_date_on_eshop": "2016-06-10",
+					"release_date_on_retail": "2016-06-10",
+					"price_on_retail": "$39.99",
+					"price_on_retail_detail": {
+						"amount": "$39.99",
+						"currency": "USD",
+						"raw_value": "39.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Kirby Planet Robobot™",
+					"id": 50010000039739,
+					"product_code": "CTR-N-AT3A",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/5f844a48958b37b476d0db90f7ac4b55215b131e2c517e93ca002826f54662a5.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/8faad95ee96393a9b2ee0181113fbcacfc7873f636a3241f927d823ed8ecb889.jpg",
+					"new": false
+				},
+				"index": 7
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Fighting Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.88,
+						"votes": 109136,
+						"star1": 973,
+						"star2": 691,
+						"star3": 2530,
+						"star4": 12955,
+						"star5": 91987
+					},
+					"release_date_on_eshop": "2014-10-03",
+					"release_date_on_retail": "2014-10-03",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": false,
+					"in_app_purchase": true,
+					"name": "Super Smash Bros.™ for\nNintendo 3DS",
+					"id": 50010000023235,
+					"product_code": "CTR-N-AXCE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3116e331c504441ba64cf7878bb67a5f2b2413a41d33866625b66198143e6bd0.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/a41675794d377cad4fd5ffebb58dbaed6b426d74b64859d2c4e6061b603efc64.jpg",
+					"new": false
+				},
+				"index": 8
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Fighting",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.51,
+						"votes": 4914,
+						"star1": 102,
+						"star2": 114,
+						"star3": 453,
+						"star4": 1310,
+						"star5": 2935
+					},
+					"release_date_on_eshop": "2014-08-29",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Kirby Fighters Deluxe™",
+					"id": 50010000025156,
+					"product_code": "CTR-N-JVXE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/f7a5b74c1ba04213ee2069954b634b51507d57f2eca3e25c4d9a89648abf43a8.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d090569b382a41829dca667ed7e4e8040643b6f26283d8abbe7de6210493afc.jpg",
+					"new": false
+				},
+				"index": 9
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Rhythm Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.62,
+						"votes": 679,
+						"star1": 8,
+						"star2": 7,
+						"star3": 50,
+						"star4": 169,
+						"star5": 445
+					},
+					"release_date_on_eshop": "2014-08-29",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Dedede’s Drum Dash Deluxe",
+					"id": 50010000025157,
+					"product_code": "CTR-N-JVQE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/5214e00be49e9f6e3d98dea920429bfa63927c3b4512c623d688278c4bd2c569.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/81e1c06a88569adeae2ba9124a129bffa03c5c6a2c6f22e6e8a0f1d00939ebd1.jpg",
+					"new": false
+				},
+				"index": 10
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Platformer",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.76,
+						"votes": 22066,
+						"star1": 222,
+						"star2": 243,
+						"star3": 948,
+						"star4": 4240,
+						"star5": 16413
+					},
+					"release_date_on_eshop": "2014-05-02",
+					"release_date_on_retail": "2014-05-02",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Kirby™: Triple Deluxe",
+					"id": 50010000021573,
+					"product_code": "CTR-N-BALE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e31a98f675d86699e37dbde4fedbf981c1a26d1fa3719386066b09397c411cea.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/9986c1af8f4355519b6e3bcd1a835e66f4652a04438a71d263cd536a65251de4.jpg",
+					"new": false
+				},
+				"index": 11
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy",
+						"id": 21,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.49,
+						"votes": 2321,
+						"star1": 40,
+						"star2": 39,
+						"star3": 216,
+						"star4": 710,
+						"star5": 1316
+					},
+					"release_date_on_eshop": "2013-08-01",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "1995-05-01",
+					"name": "Kirby's Dream Land™ 2",
+					"id": 50010000015513,
+					"product_code": "CTR-N-RBNE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/edbee871effefb001087523cdcee1caea9f1b79cb8d1a4399bd4adcda9dc89b6.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/190ed1662b2ff24f709c911de3fdd8d34501a685409c4f33ecc3659b0ed1c6a2.jpg",
+					"new": false
+				},
+				"index": 12
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy",
+						"id": 21,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Puzzle",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.51,
+						"votes": 640,
+						"star1": 15,
+						"star2": 15,
+						"star3": 58,
+						"star4": 169,
+						"star5": 383
+					},
+					"release_date_on_eshop": "2013-01-17",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "1997-04-01",
+					"name": "Kirby's Star Stacker™",
+					"id": 50010000013050,
+					"product_code": "CTR-N-RBYE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/1c36ea0347ed26cbd1631dbefb000aad623f42a049b34f65d98193d43acb2925.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/a0563ca1a592d7e4bc6fa3c5b3f220fb4f4519a3e7b65f8f1d29f7b31221862c.jpg",
+					"new": false
+				},
+				"index": 13
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy",
+						"id": 21,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Arcade",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.38,
+						"votes": 1588,
+						"star1": 23,
+						"star2": 58,
+						"star3": 209,
+						"star4": 463,
+						"star5": 835
+					},
+					"release_date_on_eshop": "2012-07-12",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "1994-03",
+					"name": "Kirby's Pinball Land™",
+					"id": 50010000011007,
+					"product_code": "CTR-N-RBZE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/9710abf868dc95e31f02a5dfa89f299c7d910866626e1caafb56cc61482609aa.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/1a551311e03f9cae7fc217cd8876a711508ff6c9d5a0504888196e3a66f93c00.jpg",
+					"new": false
+				},
+				"index": 14
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy",
+						"id": 21,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.37,
+						"votes": 1742,
+						"star1": 38,
+						"star2": 46,
+						"star3": 226,
+						"star4": 542,
+						"star5": 890
+					},
+					"release_date_on_eshop": "2012-05-17",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "1996-05",
+					"name": "Kirby's Block Ball™",
+					"id": 50010000010186,
+					"product_code": "CTR-N-RBKE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/4333317403927742e022f54919450a5a2014e477e8a5b4ef7cd6b144d60d3096.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/8b5fb877d7d9cff2761c2e653819c554fe32209111165cb45ebc90071df58fe6.jpg",
+					"new": false
+				},
+				"index": 15
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.65,
+						"votes": 19592,
+						"star1": 277,
+						"star2": 289,
+						"star3": 1197,
+						"star4": 4680,
+						"star5": 13149
+					},
+					"release_date_on_eshop": "2011-11-17",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "2011-11-17",
+					"name": "3D Classics:\nKirby's Adventure™",
+					"id": 50010000007997,
+					"product_code": "CTR-N-SAFE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/79bddd4531e34672f10354680c6f6c1a8fc8a090884ff5d244d41ade849733f8.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/eb633095d27d9e3075bead17472a87deba2036c8ec45dd2484ff006e4385e7a4.jpg",
+					"new": false
+				},
+				"index": 16
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy",
+						"id": 21,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Platformer / Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.33,
+						"votes": 11897,
+						"star1": 356,
+						"star2": 489,
+						"star3": 1395,
+						"star4": 3601,
+						"star5": 6056
+					},
+					"release_date_on_eshop": "1992-08",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "2011-06-30",
+					"name": "Kirby's Dream Land™",
+					"id": 50010000006943,
+					"product_code": "CTR-N-RAFE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/50e177953b6047a80ca64aa1010585847c5ef2117984c7434246714702659feb.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/815557ae44d60f9f968cfeb58ef9608b078aebb7214e89270104f9cdde826ee2.jpg",
+					"new": false
+				},
+				"index": 17
+			}],
+			"length": 17,
+			"offset": 0,
+			"total": 17
+		},
+		"id": 1071115,
+		"type": "search",
+		"component": "title"
+	}
+}

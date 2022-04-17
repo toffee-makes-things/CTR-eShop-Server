@@ -1,0 +1,707 @@
+{
+	"directory": {
+		"name": "The Legend of Zelda™ Series",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/4a2cff88bad865a8e702dc41fd2c2c4cd8e8d11b0f8acd3c3a284857c09d7022.jpg",
+		"icon_width": 102,
+		"icon_height": 76,
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/68e8a3bd9d274f44e652fdee712cdc1249bb9c357b8f6b6beab30a630633ef77.jpg",
+		"contents": {
+			"content": [{
+				"title": {
+					"platform": {
+						"name": "Super NES",
+						"id": 1004,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.87,
+						"votes": 2613,
+						"star1": 12,
+						"star2": 29,
+						"star3": 54,
+						"star4": 336,
+						"star5": 2182
+					},
+					"release_date_on_eshop": "2016-04-14",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "The Legend of Zelda™:\nA Link to the Past™",
+					"id": 50010000039719,
+					"product_code": "KTR-N-UABE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/7cda486b45938c4929e5fa84bd8f5a37a406936418513f9113ac3f202ab44de7.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/02aceca9d67a6bcbc6950c32724e4100dd4d19f5734f29349b1b4236cee84656.jpg",
+					"new": false
+				},
+				"index": 1
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.65,
+						"votes": 6874,
+						"star1": 93,
+						"star2": 140,
+						"star3": 432,
+						"star4": 1512,
+						"star5": 4697
+					},
+					"release_date_on_eshop": "2016-03-25",
+					"release_date_on_retail": "2016-03-25",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Hyrule Warriors Legends",
+					"id": 50010000039515,
+					"product_code": "CTR-N-BZHE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d41688c6d648d4c32fb9743e1c224ae61a0ab73df70f7a7ea7884f05f2973249.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/2f4881c15ce5b96e903a54c1bc2f588bba985e81b7c82cd947a92039c575af44.jpg",
+					"new": false
+				},
+				"index": 2
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.38,
+						"votes": 9825,
+						"star1": 327,
+						"star2": 450,
+						"star3": 1073,
+						"star4": 2466,
+						"star5": 5509
+					},
+					"release_date_on_eshop": "2015-10-23",
+					"release_date_on_retail": "2015-10-23",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "2015-09-09",
+					"name": "The Legend of Zelda™:\nTri Force Heroes",
+					"id": 50010000036995,
+					"product_code": "CTR-N-EA3E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/4e7e67004f645357babfaf5af3c939e34aebef7b992fa19e10a118e6e8b75163.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/88e5476bea9042f4597a5dc3b8e54d6b1e7f2675630a9ce78ae1090d9a7bf39e.jpg",
+					"new": false
+				},
+				"index": 3
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 3.98,
+						"votes": 3626,
+						"star1": 431,
+						"star2": 251,
+						"star3": 446,
+						"star4": 690,
+						"star5": 1808
+					},
+					"release_date_on_eshop": "2015-10-14",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "The Legend of Zelda™:\nTri Force Heroes Demo",
+					"id": 50010000037675,
+					"product_code": "CTR-N-KALE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/b685b2dc702b2d7d5af02273a43c40c3fce46879c6447aa4d19bae6589d2a531.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/b080f611417c13837b77c34d23fadd0ae21805688b795b90869cf0c05d2ece67.jpg",
+					"new": false
+				},
+				"index": 4
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.86,
+						"votes": 31027,
+						"star1": 431,
+						"star2": 416,
+						"star3": 917,
+						"star4": 3591,
+						"star5": 25672
+					},
+					"release_date_on_eshop": "2015-02-13",
+					"release_date_on_retail": "2015-02-13",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "The Legend of Zelda™:\nMajora’s Mask 3D",
+					"id": 50010000027796,
+					"product_code": "CTR-N-AJRE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/4baa81fa9b8e74b108a40de7ba7cd9f85626bce29ae360afd5a2234c94550137.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/8c3ddb62e9377e138c0908a0c39f5d4552e00cce69f8d718cc9fc7de9ba02626.jpg",
+					"new": false
+				},
+				"index": 5
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.88,
+						"votes": 62656,
+						"star1": 471,
+						"star2": 430,
+						"star3": 1506,
+						"star4": 7489,
+						"star5": 52760
+					},
+					"release_date_on_eshop": "2013-11-22",
+					"release_date_on_retail": "2013-11-22",
+					"price_on_retail": "$19.99",
+					"price_on_retail_detail": {
+						"amount": "$19.99",
+						"currency": "USD",
+						"raw_value": "19.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "The Legend of Zelda™:\n<br>A Link Between Worlds",
+					"id": 50010000017216,
+					"product_code": "CTR-N-BZLE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/7444dcb55463d94612814504e48ff1763fbc28e895c678bbe43a55376eb3c99c.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/02138a34105085f0536f191ed1ce7238ecd5773d8c8d83fe3d01ddab5f859d75.jpg",
+					"new": false
+				},
+				"index": 6
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy Color",
+						"id": 22,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.75,
+						"votes": 10234,
+						"star1": 85,
+						"star2": 146,
+						"star3": 442,
+						"star4": 2020,
+						"star5": 7541
+					},
+					"release_date_on_eshop": "2013-05-30",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "2001-05-01",
+					"name": "The Legend of Zelda™:\nOracle of Ages™",
+					"id": 50010000014332,
+					"product_code": "CTR-N-QADE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/35d4a26322425276bb7da4a949160fe859868ad03b458b182d72cdd2b3b0d911.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/8ee9075d207c3bb306cc93c4bf0ca21974dfd36704af4cb9c7e32ea6449a9f93.jpg",
+					"new": false
+				},
+				"index": 7
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy Color",
+						"id": 22,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.73,
+						"votes": 11157,
+						"star1": 85,
+						"star2": 122,
+						"star3": 555,
+						"star4": 2284,
+						"star5": 8111
+					},
+					"release_date_on_eshop": "2013-05-30",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "2001-05-01",
+					"name": "The Legend of Zelda™:\nOracle of Seasons™",
+					"id": 50010000014333,
+					"product_code": "CTR-N-QACE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/155f3eba7405d7221a6fae5a5b67c30ee90eb6ac069215dbc7eee5e31d8e7807.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/484da3bb101c4ee89148653c9519eea08102c2a7935e6d9f0e7bfa4a0ce69afa.jpg",
+					"new": false
+				},
+				"index": 8
+			}, {
+				"title": {
+					"platform": {
+						"name": "NES",
+						"id": 24,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action, Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.24,
+						"votes": 11252,
+						"star1": 422,
+						"star2": 649,
+						"star3": 1509,
+						"star4": 3125,
+						"star5": 5547
+					},
+					"release_date_on_eshop": "2012-11-22",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "1988-12-01",
+					"name": "Zelda II™ -\nThe Adventure of Link™",
+					"id": 50010000007276,
+					"product_code": "CTR-N-TANE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/28c84d1810b5cb73f2b903ba2c182625ab07f6d4293e5d4805fba2251196b73a.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/a23619010e97915184c68e2208124492ed7fbfbeaa32eff142ca6b3b2100d575.jpg",
+					"new": false
+				},
+				"index": 9
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.91,
+						"votes": 178811,
+						"star1": 2021,
+						"star2": 1413,
+						"star3": 3653,
+						"star4": 15730,
+						"star5": 155994
+					},
+					"release_date_on_eshop": "2012-10-18",
+					"release_date_on_retail": "2011-06-19",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "2011-06-03",
+					"name": "The Legend of Zelda™:\nOcarina of Time™ 3D",
+					"id": 50010000000541,
+					"product_code": "CTR-N-AQEE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/7dce2541504053c737e91fe9fae1e5c79a928d530e6de9b34fb7378d030efe29.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/b4d4e94405f84ff04933a784a06f8a91a345d1934365334536692f42ee7f0424.jpg",
+					"new": false
+				},
+				"index": 10
+			}, {
+				"title": {
+					"platform": {
+						"name": "NES",
+						"id": 24,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.66,
+						"votes": 24341,
+						"star1": 317,
+						"star2": 479,
+						"star3": 1592,
+						"star4": 5075,
+						"star5": 16878
+					},
+					"release_date_on_eshop": "2012-07-05",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "The Legend of Zelda™",
+					"id": 50010000007271,
+					"product_code": "CTR-N-TAEE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/38fc6b43f2dfb2a196034709f6dd06c41f3c6d82ddd7c50dc583a761e03ada3c.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/68efab213597d463cae12554ff8c8a898a963f47b4a5edd838e94110e7478149.jpg",
+					"new": false
+				},
+				"index": 11
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy Color",
+						"id": 22,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Adventure / Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.78,
+						"votes": 41114,
+						"star1": 438,
+						"star2": 501,
+						"star3": 1587,
+						"star4": 7049,
+						"star5": 31539
+					},
+					"release_date_on_eshop": "1998-12",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "2011-06-07",
+					"name": "The Legend of Zelda™: Link's Awakening DX™",
+					"id": 50010000006866,
+					"product_code": "CTR-N-QAAE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/a6c4e8466d98961c21fe76e2a04bab64df239dad47a165d28f33618bfe4b0220.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/71b74d006b5fd36bed987ade13d071cfc4a8d1538df712a89c39a988cc05fd2c.jpg",
+					"new": false
+				},
+				"index": 12
+			}],
+			"length": 12,
+			"offset": 0,
+			"total": 12
+		},
+		"id": 1071114,
+		"type": "search",
+		"component": "title"
+	}
+}

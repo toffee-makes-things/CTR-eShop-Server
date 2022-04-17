@@ -1,0 +1,156 @@
+{
+	"title": {
+		"formal_name": "Metroid™: Samus Returns\nAnnouncement Trailer",
+		"description": "Experience the immersive 3D visuals of Metroid™: Samus Returns! In this game, you brave the hostile terrain of an alien planet teeming with vicious life forms as legendary bounty hunter Samus Aran. This masterful reimagining of her Game Boy™ adventure features classic Metroid gameplay along with a wealth of exciting new content sure to please new and veteran fans alike. \n<br>\n<br>*This trailer was first shown during E3 2017.",
+		"genres": {
+			"genre": [{
+				"name": "Action",
+				"id": 3
+			}, {
+				"name": "Shooter",
+				"id": 11
+			}],
+			"length": 2
+		},
+		"keywords": {
+			"keyword": ["Samus", "Aran", "Sci-Fi", "Space", "Alien", "Metroid", "Nintendo"]
+		},
+		"features": {
+			"feature": [{
+				"id": 6,
+				"name": "Displays 3D Visuals",
+				"required": false,
+				"type": 4
+			}]
+		},
+		"languages": {
+			"language": [{
+				"iso_code": "en",
+				"name": "English"
+			}]
+		},
+		"number_of_players": "1 player",
+		"disclaimer": "You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.",
+		"copyright": {
+			"text": "© 2017 Nintendo"
+		},
+		"screenshots": {
+			"screenshot": [{
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/a9d40c755efd3430744cfdebbacd0c346a3461f993699f021c2c28bdcf444b00.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/cccb330549a46819da5c71620c676fdc627690c4baa244dc4b227c7c73e23a40.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/0dfecd7e44ecaa9bd6bb2ae25668cf5eac2d782de4935a9fe6a2dab9fa439ffa.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/844d23acf2a48581483b2f9d08a38d3134d1aaa5cf3ec271a782b142b052cdd1.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/43b0cd104bf221cd5e21339eb988a58b07a1c0b9bb0e32e60e089ac360cdec7a.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/75285489d5e13614cb9bbca8d316d72b0aebbef183176e0754e911390ba6e356.jpg",
+					"type": "lower"
+				}]
+			}]
+		},
+		"preference": {
+			"target_player": {
+				"everyone": 58,
+				"gamers": 42
+			},
+			"play_style": {
+				"casual": 55,
+				"intense": 45
+			}
+		},
+		"ticket_available": false,
+		"data_size": 23317300,
+		"download_code_sales": false,
+		"download_card_sales": {
+			"available": false
+		},
+		"name": "Metroid™: Samus Returns\nAnnouncement Trailer",
+		"thumbnails": {
+			"thumbnail": [{
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/51c40f73308ff3f65c14d1d9b3cde2682c837b5f46903ce85d277fc59cc1b4da.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}]
+		},
+		"id": 50010000042915,
+		"platform": {
+			"name": "Downloadable Video",
+			"id": 43,
+			"device": "CTR",
+			"category": 8
+		},
+		"publisher": {
+			"name": "Nintendo",
+			"id": 190
+		},
+		"product_code": "CTR-N-SQHE",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/fd920b75883cc7083cb7d09b5dcfee1dc12244d91e2605659dc85f3ab16203b6.jpg",
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/7443e6d08e5f76ecc59273587d5d27ae5a053f297ee591cf3dab5b87de9e8fc8.jpg",
+		"display_genre": "Action / Platformer / Shooter",
+		"rating_info": {
+			"rating_system": {
+				"name": "ESRB",
+				"id": 202
+			},
+			"rating": {
+				"icons": {
+					"icon": [{
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+						"type": "normal"
+					}, {
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+						"type": "small"
+					}]
+				},
+				"name": "E10+",
+				"age": 10,
+				"id": 3
+			},
+			"descriptors": {
+				"descriptor": [{
+					"name": "Animated Blood"
+				}, {
+					"name": "Fantasy Violence"
+				}, {
+					"name": "Mild Suggestive Themes"
+				}]
+			}
+		},
+		"star_rating_info": {
+			"score": 4.74,
+			"votes": 67,
+			"star1": 2,
+			"star2": 2,
+			"star3": 4,
+			"star4": 5,
+			"star5": 54
+		},
+		"release_date_on_eshop": "2017-06-13",
+		"retail_sales": false,
+		"eshop_sales": true,
+		"web_sales": true,
+		"demo_available": false,
+		"aoc_available": false,
+		"in_app_purchase": false,
+		"top_image": {
+			"type": "screenshot",
+			"url": "https://kanzashi-ctr.cdn.nintendo.net/i/a9d40c755efd3430744cfdebbacd0c346a3461f993699f021c2c28bdcf444b00.jpg"
+		},
+		"new": false,
+		"public": true
+	}
+}

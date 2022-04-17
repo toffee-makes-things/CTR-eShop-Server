@@ -1,0 +1,1421 @@
+{
+	"directory": {
+		"name": "Indie Games",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/1d2bb706eb601b84c76596035092ff0e330ffe43274965bd8f785734d2dcbc30.jpg",
+		"icon_width": 76,
+		"icon_height": 58,
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/1c9020e28d692f00c7f8b6ec764977200e50deccb3eb4f52b502c5230f968b55.jpg",
+		"description": "Take a look at these fresh releases from independent developers.",
+		"contents": {
+			"content": [{
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "VD-DEV",
+						"id": 1396
+					},
+					"display_genre": "Shooter / Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.04,
+						"votes": 11055,
+						"star1": 1216,
+						"star2": 800,
+						"star3": 1249,
+						"star4": 2049,
+						"star5": 5741
+					},
+					"release_date_on_eshop": "2015-02-26",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": true,
+					"in_app_purchase": true,
+					"name": "IRONFALL Invasion",
+					"id": 50010000031216,
+					"product_code": "CTR-N-KFLE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/1cbd2fbe71d8c0f2fcce9e8e33ec60ce9ebbb2dacfb1453c37281daf8dc18b6e.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/c6ed9789338f995220601f4135f625dc2c919d556f3ac9cf7bda17ad310b48f8.jpg",
+					"new": false
+				},
+				"index": 1
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Image & Form",
+						"id": 130
+					},
+					"display_genre": "Platformer / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.62,
+						"votes": 7661,
+						"star1": 59,
+						"star2": 130,
+						"star3": 480,
+						"star4": 2032,
+						"star5": 4960
+					},
+					"release_date_on_eshop": "2013-08-08",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "SteamWorld Dig",
+					"id": 50010000015705,
+					"product_code": "CTR-N-JSTE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/124d3b3653acaf45794a805c92ed706b97e7248ad9064470c3d94062a95f45f1.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/400f2c4ad16b369977cbee8e3dd8c5bc3f338e103cca5cc6be9b322fabe83699.jpg",
+					"new": false
+				},
+				"index": 2
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Image & Form",
+						"id": 130
+					},
+					"display_genre": "Action / Platformer / Adventure / Puzzle",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.88,
+						"votes": 337,
+						"star1": 4,
+						"star2": 2,
+						"star3": 4,
+						"star4": 43,
+						"star5": 284
+					},
+					"release_date_on_eshop": "2018-02-22",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "SteamWorld Dig 2",
+					"id": 50010000043696,
+					"product_code": "CTR-N-KW4E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/f017f6895af14f148c1eb0a6d41c7c7d852bae3f496ec06cbba6c7fd6409c97a.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/f99f24b64df62a74f25b2a2d11c869c769483906113389df4ffe924dc8f40737.jpg",
+					"new": false
+				},
+				"index": 3
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "LEVEL-5",
+						"id": 456
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.35,
+						"votes": 3193,
+						"star1": 95,
+						"star2": 102,
+						"star3": 381,
+						"star4": 1007,
+						"star5": 1608
+					},
+					"release_date_on_eshop": "2013-07-18",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "ATTACK OF THE FRIDAY\nMONSTERS! A TOKYO TALE™",
+					"id": 50010000015096,
+					"product_code": "CTR-N-JKEE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/1a0c7c3aa6e5dd1edd3fee07a3d600c2421c0a060bc45332e99a4365a51f7669.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e8ca07936510ae087c17abc593b395f7ed82d29f9a3f14abc71aa790c3aadce6.jpg",
+					"new": false
+				},
+				"index": 4
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Image & Form",
+						"id": 130
+					},
+					"display_genre": "Strategy / Action / Shooter / RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.84,
+						"votes": 1386,
+						"star1": 11,
+						"star2": 7,
+						"star3": 37,
+						"star4": 215,
+						"star5": 1116
+					},
+					"release_date_on_eshop": "2015-12-10",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "SteamWorld Heist",
+					"id": 50010000038678,
+					"product_code": "CTR-N-JY5E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/614c1a6a76da906db39b3b0491d65a99134d52d201fd6457d11d8760b7c835b3.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/f8a39e807b8a29e8ca21d7cae7f01edac77cdeab16d0bde235d029f34204c792.jpg",
+					"new": false
+				},
+				"index": 5
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Shin’en Multimedia",
+						"id": 235
+					},
+					"display_genre": "Arcade / Action / Shooter",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.43,
+						"votes": 1033,
+						"star1": 16,
+						"star2": 17,
+						"star3": 127,
+						"star4": 316,
+						"star5": 557
+					},
+					"release_date_on_eshop": "2013-03-07",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Nano Assault EX",
+					"id": 50010000013513,
+					"product_code": "CTR-N-JNAE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/9182c8f2d4ce9210c74a68d0dbeec6e7b984e91d3ab4bc013c14e65371c3fcdb.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/32000a74b43394afd0ad8df1510ccdb9f89dc09b2a94ad781722c3c4a40d1303.jpg",
+					"new": false
+				},
+				"index": 6
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "LEVEL-5",
+						"id": 456
+					},
+					"display_genre": "Shooter / Action / Arcade",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.51,
+						"votes": 5627,
+						"star1": 50,
+						"star2": 115,
+						"star3": 503,
+						"star4": 1690,
+						"star5": 3269
+					},
+					"release_date_on_eshop": "2012-10-25",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "LIBERATION MAIDEN",
+					"id": 50010000012194,
+					"product_code": "CTR-N-JKSE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/5e7df2e4d89ae09b8d56a22a2bac01edcb30a7aff8e5703554be4e89b9c23cb6.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/8b8616f37151d5c0ea1fba0691112e559edf2518c8cc4e95126ee255f9b4c0d0.jpg",
+					"new": false
+				},
+				"index": 7
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Hörberg Productions",
+						"id": 1102
+					},
+					"display_genre": "Platform",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.58,
+						"votes": 1887,
+						"star1": 22,
+						"star2": 27,
+						"star3": 140,
+						"star4": 518,
+						"star5": 1180
+					},
+					"release_date_on_eshop": "2015-01-29",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Gunman Clive 2",
+					"id": 50010000029356,
+					"product_code": "CTR-N-JWGE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d11df194703cccc31537e95710a2df2eb2bf14d7c3050c0d7039d803af210fa6.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/127e4866741318f9a7fbaa3ac6fa023ffffd927bf5c07fbe80d0e0e8c91e1668.jpg",
+					"new": false
+				},
+				"index": 8
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Hörberg Productions",
+						"id": 1102
+					},
+					"display_genre": "Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.48,
+						"votes": 10109,
+						"star1": 190,
+						"star2": 234,
+						"star3": 936,
+						"star4": 3011,
+						"star5": 5738
+					},
+					"release_date_on_eshop": "2013-01-03",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Gunman Clive",
+					"id": 50010000012860,
+					"product_code": "CTR-N-JGCE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/285370fad3824f036395991e2862c56052722873d46f88e5102203066153eb38.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0212bfacbc878011bd80f59e1fdf59de9ee6f926c6dea2e1b0e8d5a77cce38ce.jpg",
+					"new": false
+				},
+				"index": 9
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "LEVEL-5",
+						"id": 456
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.23,
+						"votes": 1736,
+						"star1": 29,
+						"star2": 75,
+						"star3": 261,
+						"star4": 630,
+						"star5": 741
+					},
+					"release_date_on_eshop": "2014-02-20",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "WEAPON SHOP de OMASSE™ ",
+					"id": 50010000020334,
+					"product_code": "CTR-N-JBKE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e669d39488633f442ab83488fded149de9ee165813bb47f356ee05bef7cd6c7a.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/c27b73c0e28177e3fc91321be26df997c0791dffd9fcb6d7cdd326632ee8e5af.jpg",
+					"new": false
+				},
+				"index": 10
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "DrinkBox Studios",
+						"id": 1300
+					},
+					"display_genre": "Action / RPG / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.77,
+						"votes": 637,
+						"star1": 5,
+						"star2": 5,
+						"star3": 21,
+						"star4": 130,
+						"star5": 476
+					},
+					"release_date_on_eshop": "2016-10-13",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Severed",
+					"id": 50010000041788,
+					"product_code": "CTR-N-KSVE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/435d1854f77606f3ec9b0b9e2ac1fa0ec18fd6a17bf8b7e219985aec8751252f.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/17f3cf25c31c755e78d4635424cac72b1c63be43771f7b121db64a67fae48105.jpg",
+					"new": false
+				},
+				"index": 11
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Big John Games",
+						"id": 33
+					},
+					"display_genre": "Action / Shooter",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.17,
+						"votes": 171,
+						"star1": 9,
+						"star2": 6,
+						"star3": 22,
+						"star4": 65,
+						"star5": 69
+					},
+					"release_date_on_eshop": "2014-08-28",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Thorium Wars: Attack of\nthe Skyfighter",
+					"id": 50010000025155,
+					"product_code": "CTR-N-JTZE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0a139c92eee90b7abe4e817b5c045de4e86093e9f53cb3ce81a2aaf3aaec4365.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/bc71f488a5649936f1c1eb0d6490fdc056a7e4680cb3cee42473bcbe6011e6a7.jpg",
+					"new": false
+				},
+				"index": 12
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Shin’en Multimedia",
+						"id": 235
+					},
+					"display_genre": "3D Jump & Run",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.06,
+						"votes": 429,
+						"star1": 18,
+						"star2": 19,
+						"star3": 96,
+						"star4": 123,
+						"star5": 173
+					},
+					"release_date_on_eshop": "2013-11-13",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Jett Rocket II:\nThe Wrath of Taikai",
+					"id": 50010000017833,
+					"product_code": "CTR-N-JRSE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/98b6da3b0478378582c854c77d7456f1ecce3b786916bc17001d85c6615edaa2.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/7947b2f45fb3ba4f14901bcd4f9943a85c614bfb0797cb906f70d27684be9fe4.jpg",
+					"new": false
+				},
+				"index": 13
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Yacht Club Games",
+						"id": 1253
+					},
+					"display_genre": "Action / Adventure / Platformer",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.88,
+						"votes": 10180,
+						"star1": 74,
+						"star2": 69,
+						"star3": 245,
+						"star4": 1247,
+						"star5": 8545
+					},
+					"release_date_on_eshop": "2014-06-26",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Shovel Knight: Treasure Trove",
+					"id": 50010000023055,
+					"product_code": "CTR-N-JK8E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/9553278a20bce97f9048dcad9ce042bbbc0037fcc05eb53701861590cd5d7686.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3c9baabb05a2d29dcf094b8e797ced0796af164308f60340fc4bec82ec627cab.jpg",
+					"new": false
+				},
+				"index": 14
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "WayForward",
+						"id": 288
+					},
+					"display_genre": "Action / Adventure / Platformer",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.82,
+						"votes": 3642,
+						"star1": 15,
+						"star2": 26,
+						"star3": 114,
+						"star4": 605,
+						"star5": 2882
+					},
+					"release_date_on_eshop": "2014-10-23",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Shantae and the Pirate's Curse",
+					"id": 50010000026995,
+					"product_code": "CTR-N-JSAE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/29b633b51de940e8107260c696a106fd9911293101f636ba47e46a8c1b3dece1.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/6f61b201ebc2aad44a1f3f2ef8bd889462e8c17f4e6648d4072f95a2e628999c.jpg",
+					"new": false
+				},
+				"index": 15
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nicalis",
+						"id": 186
+					},
+					"display_genre": "Action / Adventure / Platformers / Shooting",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.86,
+						"votes": 6203,
+						"star1": 33,
+						"star2": 32,
+						"star3": 154,
+						"star4": 858,
+						"star5": 5126
+					},
+					"release_date_on_eshop": "2012-10-04",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Cave Story",
+					"id": 50010000012016,
+					"product_code": "CTR-N-JD9E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0a75085c4d04067a3ca7e202eb8873958956c8bd5eb178be6a54faa793944b6c.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/6cf7601fb6b9e0f7466176ef7fd9ff8abd71421aa81e96336bac452653c14f89.jpg",
+					"new": false
+				},
+				"index": 16
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo DSiWare",
+						"id": 20,
+						"device": "CTR",
+						"category": 9
+					},
+					"publisher": {
+						"name": "WayForward",
+						"id": 288
+					},
+					"display_genre": "Action Quest",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.65,
+						"votes": 5905,
+						"star1": 76,
+						"star2": 89,
+						"star3": 332,
+						"star4": 1477,
+						"star5": 3931
+					},
+					"release_date_on_eshop": "2010-10-04",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "2010-10-04",
+					"name": "Shantae: Risky's Revenge",
+					"id": 50010000003644,
+					"product_code": "TWL-N-KS3E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/1e859aae135da39e9b268e93cc561b87b1c656d508cf1b20625ac220c70ccef2.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e1a75a1d49a491f9b578cfa0d8cccc12bc98c51fdcc9a99124b251d90e6f049c.jpg",
+					"new": false
+				},
+				"index": 17
+			}, {
+				"title": {
+					"platform": {
+						"name": "New 3DS Download Only",
+						"id": 1001,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Batafurai",
+						"id": 1865
+					},
+					"display_genre": "Arcade / Strategy",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/715503ff499459c02470c602250dce1cbd063735074bfac7d729e9ad6f1f172f.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/f9fd343a778ba3f44fb995a127d7c18a13418511ec10753562c91b0bd4387e4d.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "M",
+							"age": 17,
+							"id": 5
+						}
+					},
+					"star_rating_info": {
+						"score": 4.43,
+						"votes": 32,
+						"star1": 3,
+						"star2": 0,
+						"star3": 2,
+						"star4": 8,
+						"star5": 19
+					},
+					"release_date_on_eshop": "2020-11-26",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "The Queen TV-Game 2",
+					"id": 50010000048976,
+					"product_code": "KTR-N-CF9E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/59a07bce1fe7198185b0b3ce88d95ea2a43e9710186e16bbd3c51cfb748b25af.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e8b9f6902f9914a8595c429416e30594001510d2f364c894a009dded4a2ada8c.jpg",
+					"new": false
+				},
+				"index": 18
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "WayForward",
+						"id": 288
+					},
+					"display_genre": "Puzzle / Platformer",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.48,
+						"votes": 8658,
+						"star1": 159,
+						"star2": 181,
+						"star3": 793,
+						"star4": 2634,
+						"star5": 4891
+					},
+					"release_date_on_eshop": "2011-12-22",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Mighty Switch Force!",
+					"id": 50010000008481,
+					"product_code": "CTR-N-JMFE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/90da559f358c58d596cb05a2a8acc05411be18c3106d9945af052ca73181bc31.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/9a5809bedb5a07346ba58aed7554eb94cf6ec4249366befe8c0e07d2e697c6c5.jpg",
+					"new": false
+				},
+				"index": 19
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Genius Sonority",
+						"id": 682
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.63,
+						"votes": 5181,
+						"star1": 77,
+						"star2": 111,
+						"star3": 362,
+						"star4": 1149,
+						"star5": 3482
+					},
+					"release_date_on_eshop": "2012-09-27",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "THE \"DENPA\" MEN They Came By Wave",
+					"id": 50010000011991,
+					"product_code": "CTR-N-JD8E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/348cb3f53cbeb256b98bb34797235f0ca8aadf0b7d0b461f483a0661621619cc.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0bd163a96eb932baa9244744138892a57cc44e51d358830542e1771e4c599c5d.jpg",
+					"new": false
+				},
+				"index": 20
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Inti Creates",
+						"id": 1308
+					},
+					"display_genre": "8-bit side-scrolling action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.2,
+						"votes": 2310,
+						"star1": 62,
+						"star2": 101,
+						"star3": 387,
+						"star4": 748,
+						"star5": 1012
+					},
+					"release_date_on_eshop": "2014-11-28",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": true,
+					"in_app_purchase": true,
+					"name": "MIGHTY GUNVOLT",
+					"id": 50010000024996,
+					"product_code": "CTR-N-KMGE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/666b8d4b02e16c460f4ac8da268ff428abe17a33203d012168347f067767258b.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/13ceba59ef3003925aa5ba210dea674fbe14d360b6e63fbf568736315bf2a2fe.jpg",
+					"new": false
+				},
+				"index": 21
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Genius Sonority",
+						"id": 682
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.69,
+						"votes": 894,
+						"star1": 13,
+						"star2": 14,
+						"star3": 63,
+						"star4": 157,
+						"star5": 647
+					},
+					"release_date_on_eshop": "2014-05-08",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": true,
+					"in_app_purchase": true,
+					"name": "THE \"DENPA\" MEN 3 The Rise of Digitoll",
+					"id": 50010000022275,
+					"product_code": "CTR-N-JDRE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/30ffeb36b1a4e4b129ec7fbf85c670f95bceae57868e8c8c1d92a70ade22d768.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/5c719e368a7db44f5280097fac67d87124e4d247a4a5071699e72567b08bd03e.jpg",
+					"new": false
+				},
+				"index": 22
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Collecting Smiles",
+						"id": 742
+					},
+					"display_genre": "Painting Application",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.72,
+						"votes": 17560,
+						"star1": 292,
+						"star2": 286,
+						"star3": 964,
+						"star4": 3040,
+						"star5": 12978
+					},
+					"release_date_on_eshop": "2012-04-05",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "2012-04-05",
+					"name": "Colors! 3D",
+					"id": 50010000009727,
+					"product_code": "CTR-N-JCRE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/c896e83530e9479ce9584a9a3772452e33c938a469ddf1dbfa775d4b1683592c.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0e3532c51c2ef9dc0f7b89aabca0c0bd5b7184a19d015fd313be6700d7c88b9b.jpg",
+					"new": false
+				},
+				"index": 23
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Big John Games",
+						"id": 33
+					},
+					"display_genre": "Creativity / Simulation",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 3.74,
+						"votes": 298,
+						"star1": 40,
+						"star2": 31,
+						"star3": 53,
+						"star4": 39,
+						"star5": 135
+					},
+					"release_date_on_eshop": "2016-01-14",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Lionel City Builder 3D:\nRise of the Rails",
+					"id": 50010000039176,
+					"product_code": "CTR-N-KT8E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/8ed8c8ea8c8c4763369f2dcdb1944e9fca5905085ce068c4e23f07b3370324e1.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e362080cc92c118470bbf4efbcbdcbc6958729f1806d32e249b7c435b0d83cba.jpg",
+					"new": false
+				},
+				"index": 24
+			}, {
+				"title": {
+					"platform": {
+						"name": "New 3DS Download Only",
+						"id": 1001,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Batafurai",
+						"id": 1865
+					},
+					"display_genre": "Arcade / Strategy / Simulation",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 5.0,
+						"votes": 4,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 0,
+						"star5": 4
+					},
+					"release_date_on_eshop": "2021-12-27",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Gal Galaxy Pain",
+					"id": 50010000049355,
+					"product_code": "KTR-N-CC6E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/22bad90959b0744032ea2623bb8c3d7be209c8f101b1259f9e8fec417fca9829.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/4d07bc9a55da2f41ca62d5dc3789cf0fa1bb3ee124dd61e71b5172740fa9cc76.jpg",
+					"new": false
+				},
+				"index": 25
+			}],
+			"length": 25,
+			"offset": 0,
+			"total": 100
+		},
+		"id": 1071137,
+		"type": "search",
+		"component": "title"
+	}
+}

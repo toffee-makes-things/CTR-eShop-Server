@@ -1,0 +1,987 @@
+{
+	"title": {
+		"formal_name": "Super Smash Bros.™ for\nNintendo 3DS",
+		"description": "As of late March 2023, it will no longer be possible to make purchases in Nintendo eShop for Nintendo 3DS, including add-on content for this game. For more information please visit Support.\n<br><br>\nOffers in-game purchases\n<br><br>\nNew DLC is available! Visit www.smashbros.com/us/dlc/how-to-purchase.html for more information!\n<br><br>\nStart smashing today with the free demo of Super Smash Bros.™ for Nintendo 3DS.\n<br><br>\nBattle it out as Nintendo’s greatest heroes—right in the palm of your hand! Power-up your combatant and face off against your friends in the new Smash Run mode, then in a series first, unlock new move variations to personalize your fighter. With new StreetPass™ features, mini-games, and trophies to collect, there’s plenty to keep you smashing!\n<br><br>\nWith modes and stages made for portable play, Super Smash Bros. makes its debut on the Nintendo 3DS™ system. Square off against Nintendo favorites such as: Mario™, Link™, and Samus™, or take on newcomers like: Mega Man, Wii Fit Trainer, and Greninja just to name a few. For the first time in series history, traverse a huge maze and defeat enemies for power-ups in Smash Run, or go into the Character Builder to tweak the special moves of your favorite hero! After you’ve triumphed over your friends in local multiplayer, go online and challenge the world!\n<br><br>\nCheck out the theme inspired by this game in the Theme Shop. Just tap the icon in the upper left corner of your Nintendo 3DS HOME Menu to get started.\n<br><br>\nTap your amiibo™ figure to the New Nintendo 3DS XL system to train it, power it up, or battle with and against it. Train your amiibo* to supercharge its stats and expand its abilities. Customize your amiibo by adjusting its attack, defense and speed stats. Fight your amiibo against a friend's to make them tougher and see who the best trainer is. Team up with your amiibo, or battle against friends in multiplayer amiibo action. *This game allows you to save game data on the amiibo figure. Game data must be deleted before saving data from another amiibo compatible game.",
+		"genres": {
+			"genre": [{
+				"name": "Multiplayer",
+				"id": 92
+			}, {
+				"name": "Fighting",
+				"id": 5
+			}],
+			"length": 2
+		},
+		"keywords": {
+			"keyword": ["Nintendo", "Online Play", "Local Play", "StreetPass", "3D Games", "Demo", "DLC", "amiibo"]
+		},
+		"features": {
+			"feature": [{
+				"id": 12,
+				"name": "Supports Online Play",
+				"required": false,
+				"type": 4
+			}, {
+				"id": 6,
+				"name": "Displays 3D Visuals",
+				"required": false,
+				"type": 4
+			}, {
+				"id": 8,
+				"name": "Supports Local Play",
+				"required": false,
+				"type": 5
+			}, {
+				"id": 14,
+				"name": "Supports StreetPass",
+				"required": false,
+				"type": 5
+			}, {
+				"id": 15,
+				"name": "Supports SpotPass",
+				"required": false,
+				"type": 4
+			}, {
+				"id": 5,
+				"name": "Mii",
+				"icons": {
+					"icon": [{
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/f000ef8e0e846606b656e76d040d658f5f1a1b4d874b041f05ec2b23b718168f.png",
+						"type": "normal"
+					}, {
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/eceee31706e8f2248cb5adcc8af6c185926f7863a43fb7846df62075cbcac78e.jpg",
+						"type": "small"
+					}]
+				},
+				"required": false,
+				"type": 4
+			}, {
+				"id": 30,
+				"name": "Nintendo Network",
+				"icons": {
+					"icon": [{
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/233a88d20a1bc522ae130b8ffb72c35593e0605e0d35ebfbb4168840c2a7ca5e.png",
+						"type": "normal"
+					}, {
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/05a137cb151cc8c6be24849bbc758437727bd14cd847e7c2a3ee4f98f88428a9.jpg",
+						"type": "small"
+					}]
+				},
+				"required": false,
+				"type": 4
+			}, {
+				"id": 56,
+				"name": "amiibo",
+				"icons": {
+					"icon": [{
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/17428059e5a57bc9cbb7c68e1c34d0d384d649ae3e6508376d4676bad6d887ef.png",
+						"type": "normal"
+					}, {
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/7d986ec65edb925478057e358625be907d607bc12cd97587dffb7e71839fca4d.jpg",
+						"type": "small"
+					}]
+				},
+				"required": false,
+				"type": 6
+			}]
+		},
+		"languages": {
+			"language": [{
+				"iso_code": "en",
+				"name": "English"
+			}, {
+				"iso_code": "es",
+				"name": "Spanish"
+			}, {
+				"iso_code": "fr",
+				"name": "French"
+			}]
+		},
+		"number_of_players": "1 - 4 players",
+		"disclaimer": "“3DS & Wii U” options for Super Smash Bros. for Nintendo 3DS/Wii U DLC are only available in the US, Canada, and Mexico. \n<br><br>\nWireless broadband Internet access required for online play. For more info, go to support.nintendo.com.\n<br><br>\nUse Parental Controls to restrict 3D mode for children 6 and under.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.\n<br><br>\namiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/\ncompatibility/ for specific details on how each amiibo works. amiibo sold separately.\n<br><br>\nIn-game content available for purchase using stored account funds.",
+		"copyright": {
+			"text": "© 2014 Nintendo. Original Game: © Nintendo/HAL Laboratory, Inc. Characters: © Nintendo / HAL Laboratory, Inc. / Pokémon / Creatures Inc. / GAME FREAK inc. / INTELLIGENT SYSTEMS / SEGA / CAPCOM CO., LTD. / BANDAI NAMCO Games Inc. / MONOLITHSOFT. Nintendo properties are trademarks of Nintendo."
+		},
+		"screenshots": {
+			"screenshot": [{
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/e62a6aeaebbe554e954bcd67e9da523bab1688e422f24507be7dec9471e5daf3.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/371a79e3d38bbaef670b9e14b711aa9550be18721e5934c682fe497d99cd5a37.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/c75b54a5c0c2f161d5e693548c284109495a51e83e1f6e931743e35385e508c2.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/7596aa1a59a8e2ab3ec95bba2b0e4aedfc10e451a3c68e6b1e8c5ba9fdf5c4f0.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/ccbc826233e890fc19a6590445f8b90b63e47810b8bfb4e37f03fae263dc793b.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/3f854476a872a8fe809818a3cc43d3173361c54430d2e775be133db15bb7a6d8.jpg",
+					"type": "lower"
+				}]
+			}]
+		},
+		"preference": {
+			"target_player": {
+				"everyone": 58,
+				"gamers": 42
+			},
+			"play_style": {
+				"casual": 36,
+				"intense": 64
+			}
+		},
+		"web_sites": {
+			"web_site": [{
+				"name": "Support Site - \nFinding Your Issued Code",
+				"url": "http://en-americas-support.nintendo.com/app/answers/detail/a_id/14593/p/430",
+				"official": false
+			}]
+		},
+		"movies": {
+			"movie": [{
+				"name": "Super Smash Bros.™ –\nFinal Video Presentation ",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0d58e57bb99e30d69607cdc907a6277a5e53fb1042771797c5e3dfd0a59b933e.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3cbfa1c46e0b9aacdf64ee01e32db754dd08e10b2026a80b370318c148f4d885.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/23fad17860336bd508826a5b4755eed5503e40a8733499c5cd38d27370d4693a.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 2001
+					}]
+				},
+				"id": 50040000037709,
+				"new": false
+			}, {
+				"name": "Super Smash Bros.™ -\nBayonetta Gets Wicked!",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/16b942bcdf91f0318d8d74541b8310530977a7af520920e489fbccd4b7337db2.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/f8a7d1f95bd571e03cb14241d2a6205eb5808a161ffb6ed645e8204bb2b69065.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/2d23a6e90b115155636b334ea71aba7628cd70b12e874f41e91dcfb3aae1721e.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 160
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000037784,
+				"new": false
+			}, {
+				"name": "Super Smash Bros.™ -\nCorrin Chooses to Smash!",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d4c544d1a9c37cc1fa646da4694b6d53784559bd2530bc8b4c91c7901d0865e2.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/90324f4e2bc88bc1b4de85042ac81e41034e7378de7196195e29bd4d9a6a8b1d.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/e886e9061fe159f34786e37aaeceec7cf607aba6313ec42b6beb6c1e9111224b.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 157
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000037785,
+				"new": false
+			}, {
+				"name": "Super Smash Bros.™ - Mii\nFighters Suit Up for Wave Five",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/5927f9a9e0df1d5b41068162f7642cdea320b9e67b55e8a2457b94362d7128cf.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/562f3d41e862723a5562c8a6dc5e8862cc6ad197bb957cf955c5583b4b9cb9c7.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/3bb356274a1dde8270d1a14a0a614e14c7b0fb2471b41f70c9a69b699bcc328e.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 54
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000037782,
+				"new": false
+			}, {
+				"name": "Super Smash Bros.™ - Mii\nFighters Suit Up for Wave Six",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/25be80a6ef855b02e8c2401569a1c726e24bfb77075bb40baf8070059455bf36.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ed9c144656cedb29c35a8cf8bcaa0e4342ec7b081dfb7bcb3cdba4687eee3ee7.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/f277a379959956ba9d2d3588e759495127b31b87c2c55912fa040249d7937734.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 82
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000037783,
+				"new": false
+			}, {
+				"name": "Super Smash Bros.™\nCloud Storms Into Battle! ",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/9772b64404ed3a3fc75996ba770771f627c2b04003d45e0ddca7bccc1619e640.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/9e61dc843e9c14b9d1c8417646544b094637f84f89c288daca9eb57a86553c64.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/140ea38a2524f27888953faf95660fdccc7c986d9bf97639fe7a68915984a1ce.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 167
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 20040000025219,
+				"new": false
+			}, {
+				"name": "Super Smash Bros. Mii Fighters\nSuit Up for Wave Three",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/05d196decd889bf7e784acb362caed7c4fd5e7ee67f706a965add4ac61d4641a.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e6097af19edec1908e35497bc6c8cd49bf052193833f6865bffaf128429cfe19.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/7758e3085c118a006c321b6f718f1515bb3e169714861b4e2e04c81b66efc580.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 94
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 20040000022527,
+				"new": false
+			}, {
+				"name": "Super Smash Bros. Mii Fighters\nSuit Up for Wave One",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/a527bb4583af32215b732910eea840db10ea4b74da906b803d109048763f6e81.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/46b61bb038cc4abe65949b558acff4d0a302e8ac489a4e167eb72fd4fb318ec4.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/d3de2655d2b8cadb9bd635c8a24b032766feede4f27c6023f5708cffd7950164.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 96
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000029852,
+				"new": false
+			}, {
+				"name": "Super Smash Bros. for Wii U/3DS\nLucas Comes Out of Nowhere!",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/9064d62b5d92b6661a74bb09d83f52d71712c55a6c50181d7590da21527e5676.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/998caa2fb52ea29211db79a3b04fd414650514cc9ea0b83d175fc39eac9b4fb5.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/74cdded0cb70f4d06f3c3f6525d26301aaef0a28d3a3bfd4f1cec9b3e515fc85.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 88
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000029853,
+				"new": false
+			}, {
+				"name": "Super Smash Bros. for Wii U/3DS\nMewtwo Strikes Back!",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/90a15da604b2c1227cabb2393dd909065204b2dc6b61ced70e273dfd13565e71.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/96f80fafb14317d8e6fefd36fffe47e9e52ee4e2c5e690a2d0e3e93906416359.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/688be5da6ff024c7a6089107b807c694e1fe792c82ec657e52131d526b59281e.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 68
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000029851,
+				"new": false
+			}, {
+				"name": "Super Smash Bros. for 3DS/Wii U\nOne Dog, One Bird, One Zapper",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/2e8d220e9d55de3a949c84e0f67e68f771f3f1be5a71ee5f05cfd10748b665e1.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/c7a87519683b483fbd126ce38f3df66d53e2952f4744c3f17c4a425f1068dabd.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/7b1971d9c1b73f7224a8fe97bf704d268211425e609d1d29a084bbafeb46b252.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 138
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 20040000014154,
+				"new": false
+			}, {
+				"name": "Super Smash Bros. for\n3DS/Wii U: The Future King",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/87ed98795020e6a3351eb9b97864bf31f451db3be478a53b13b3d787dd4f814e.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/c40ea084cf5d6cf4cef71555835abdf30e57891ae0e1842aa74f3808c5e94534.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/b39268c279f3ed69ff013e5bdf728273fc6b92e945e2e58207a442e47648f48e.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 128
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 20040000013708,
+				"new": false
+			}, {
+				"name": "Super Smash Bros. - Looks\nlike we don't have a choice!",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0980e61ac9a41bdac81d8be130d2384eee0e17e6b639ebf722b68ebc34795355.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/77c510d28b5773a54958efcba7ced5254f525e07c98e57ad394d6bef51ee4ebe.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/c0554bc7c8528a7b9355c5f57f4129d758c490e3818b4f712a4be7604bd9144b.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 132
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000022262,
+				"new": false
+			}, {
+				"name": "Super Smash Bros. - The Crest\nof Sword, Magic and Flame",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/5f0b4d00e3e147f6a6287bc664267e7c5d4bb53475f2bc2fc26a749109a1b2f9.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/cde8bbf156b383407d6a76292266cf4611eda7c624dc5b070acb1846480230fe.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/684d63de3a3375c7009579e8e828488cc2ccf72462a006bb67fe48bf2a17459e.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 172
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000020822,
+				"new": false
+			}, {
+				"name": "Super Smash Bros.™ for\n3DS/Wii U Red, Blue, Yellow",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/778eeb9c77310c6ee021dd8e51c6b83de7a018eccf3310c15bd7f0032ea65a02.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/311c3d9ac5858bf9bd50d7532bf7c5a853ba354ef58b427473a6105a8ef3be8f.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/1b446e02c186e4d59541a5c6c8ca004d19b646c0c4a8d1ca8a5545cbfcddbc9c.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 93
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000019705,
+				"new": false
+			}, {
+				"name": "Super Smash Bros.™ for\n3DS/Wii U Goddess of Light",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/c49cc57d04e3966855b8853bf1dd313623fcb2e481edf48d4d951e9e4a84aef8.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0502f2f4478f2470e6475da86a11038a661528708faa85edb55e575783db112e.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/8c7112bf1f12a8d0dae2db63417242585aeaa2d7899696a8fd5db777519bedae.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 173
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000019706,
+				"new": false
+			}, {
+				"name": "Super Smash Bros.™ Direct\n04/08/2014",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/6424ebae25a55747707bcb3e70b653db6c425243ef9a1722f534664e9aff6e5e.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/8171fc77d19e2cf6429ded9269744d5ed43241e0d67aa27c816c0b29088a120b.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/3ed593a7ec3cfb4591116bc6e3cacc4acc1f7874659b61e3b7a84d572fd286c1.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 2343
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000017702,
+				"new": false
+			}, {
+				"name": "Super Smash Bros.™\nChallenger From the Shadows",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/8302a6811ff6ff728a51e7300469b7d663ef2734504769e7f32e0db99d0aa5da.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/dc2d29d010b95cc43b63d2976dce901460afb9f4b5e21b02a7462eaf793b4db9.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/721388ad26b640aa8d3f40825c32a7268f80217f2ad5582a0bf328effefaac55.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 145
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 50040000017633,
+				"new": false
+			}, {
+				"name": "Super Smash Bros.\nChampion of the Ring",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/bd5ee964e32848345f242a5404dce1ce864b7e63acfa28909172387a1006a868.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/a7ee1c215acfe95054849c379f0778b205c0a7e7eecad61748e80ba9778b56f3.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/c5ff9b7f592460b4688f00fd03c0798e4ca933af6d788d888769e6b1755ebeb7.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 122
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 20040000007465,
+				"new": false
+			}, {
+				"name": "Super Smash Brothers\nRosalina Reveal Trailer",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/5686759c18cefe4c0bd27b174a4a4bd63c371c55aa10ba32843429c85bbf5195.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/73d63f15cd3abbbcc9aabec677f3130c5599381d9005212da7e75ea80b87d9e7.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/45971fe7f6b94f7044e2f1a7891adf546e4ac1eddd451f66afd190354d390c59.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 161
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E10+",
+						"age": 10,
+						"id": 3
+					}
+				},
+				"id": 20040000006148,
+				"new": false
+			}]
+		},
+		"demo_titles": {
+			"demo_title": [{
+				"name": "Super Smash Bros.™ for\nNintendo 3DS Demo",
+				"id": 50030000004746,
+				"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3116e331c504441ba64cf7878bb67a5f2b2413a41d33866625b66198143e6bd0.jpg"
+			}]
+		},
+		"ticket_available": false,
+		"data_size": 1192622948,
+		"download_code_sales": true,
+		"download_card_sales": {
+			"available": true
+		},
+		"name": "Super Smash Bros.™ for\nNintendo 3DS",
+		"thumbnails": {
+			"thumbnail": [{
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6683c9fc6cf030228b31ba466c51be4bc4136eca83968f71f7f5890c01d7fbff.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}, {
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/54021c4ca27938b259cb1d68e4f99a38a7aa3bf222fc464e9e9839ccf6720df3.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}, {
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/3676df757aa12e3fb538f7a8c50c3d04be6797228c53d824592eb3a23af604a5.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}]
+		},
+		"id": 50010000023235,
+		"platform": {
+			"name": "Nintendo 3DS Retail/Download",
+			"id": 103,
+			"device": "CTR",
+			"category": 8
+		},
+		"publisher": {
+			"name": "Nintendo",
+			"id": 190
+		},
+		"product_code": "CTR-N-AXCE",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3116e331c504441ba64cf7878bb67a5f2b2413a41d33866625b66198143e6bd0.jpg",
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/a41675794d377cad4fd5ffebb58dbaed6b426d74b64859d2c4e6061b603efc64.jpg",
+		"display_genre": "Fighting Action",
+		"rating_info": {
+			"rating_system": {
+				"name": "ESRB",
+				"id": 202
+			},
+			"rating": {
+				"icons": {
+					"icon": [{
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+						"type": "normal"
+					}, {
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+						"type": "small"
+					}]
+				},
+				"name": "E10+",
+				"age": 10,
+				"id": 3
+			},
+			"descriptors": {
+				"descriptor": [{
+					"name": "Cartoon Violence"
+				}, {
+					"name": "Comic Mischief"
+				}, {
+					"name": "Suggestive Themes"
+				}, {
+					"name": "Online Interactions Not Rated by the ESRB"
+				}]
+			}
+		},
+		"star_rating_info": {
+			"score": 4.88,
+			"votes": 109136,
+			"star1": 973,
+			"star2": 691,
+			"star3": 2530,
+			"star4": 12955,
+			"star5": 91987,
+			"conditional_ratings": {
+				"conditional_rating": [{
+					"score": 4.85,
+					"votes": 47141,
+					"sex": "male",
+					"age": "0-19"
+				}, {
+					"score": 4.78,
+					"votes": 17797,
+					"sex": "male",
+					"age": "20-39"
+				}, {
+					"score": 4.63,
+					"votes": 1548,
+					"sex": "male",
+					"age": "40-"
+				}, {
+					"score": 4.69,
+					"votes": 5668,
+					"sex": "female",
+					"age": "0-19"
+				}, {
+					"score": 4.6,
+					"votes": 2181,
+					"sex": "female",
+					"age": "20-39"
+				}, {
+					"score": 4.47,
+					"votes": 438,
+					"sex": "female",
+					"age": "40-"
+				}]
+			}
+		},
+		"release_date_on_eshop": "2014-10-03",
+		"release_date_on_retail": "2014-10-03",
+		"retail_sales": true,
+		"eshop_sales": true,
+		"web_sales": true,
+		"demo_available": true,
+		"aoc_available": false,
+		"in_app_purchase": true,
+		"top_image": {
+			"type": "screenshot",
+			"url": "https://kanzashi-ctr.cdn.nintendo.net/i/e62a6aeaebbe554e954bcd67e9da523bab1688e422f24507be7dec9471e5daf3.jpg"
+		},
+		"new": false,
+		"public": true
+	}
+}

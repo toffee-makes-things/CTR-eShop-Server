@@ -1,0 +1,1529 @@
+{
+	"directory": {
+		"name": "Role Playing Games",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d1c2417a30bb56674e6ea7f4bd225451b7b074762643bc6330e324fd3a6c7428.jpg",
+		"icon_width": 76,
+		"icon_height": 58,
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/960cf87502c57cc5052f9fa0d772b9ce8209719732bdc6464157ed4c185c6955.jpg",
+		"contents": {
+			"content": [{
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "SEGA USA",
+						"id": 233
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.86,
+						"votes": 689,
+						"star1": 7,
+						"star2": 9,
+						"star3": 21,
+						"star4": 82,
+						"star5": 570
+					},
+					"release_date_on_eshop": "2018-02-13",
+					"release_date_on_retail": "2018-02-13",
+					"price_on_retail": "$39.99",
+					"price_on_retail_detail": {
+						"amount": "$39.99",
+						"currency": "USD",
+						"raw_value": "39.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Radiant Historia:\nPerfect Chronology",
+					"id": 50010000043556,
+					"product_code": "CTR-N-BRBE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e1bb563bafdc027328da47cf667621c25a49e5cc6c2b47a9b23983ea1aae45ae.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3af3f4968835b4a81ea8501cf78d0c566f000bc4c65b19dfd5790106e6c22b56.jpg",
+					"new": false
+				},
+				"index": 1
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "SEGA",
+						"id": 231
+					},
+					"display_genre": "RPG / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/715503ff499459c02470c602250dce1cbd063735074bfac7d729e9ad6f1f172f.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/f9fd343a778ba3f44fb995a127d7c18a13418511ec10753562c91b0bd4387e4d.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "M",
+							"age": 17,
+							"id": 5
+						}
+					},
+					"star_rating_info": {
+						"score": 4.85,
+						"votes": 720,
+						"star1": 7,
+						"star2": 2,
+						"star3": 18,
+						"star4": 109,
+						"star5": 584
+					},
+					"release_date_on_eshop": "2019-06-04",
+					"release_date_on_retail": "2019-06-04",
+					"price_on_retail": "$39.99",
+					"price_on_retail_detail": {
+						"amount": "$39.99",
+						"currency": "USD",
+						"raw_value": "39.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Persona Q2: \n<br>New Cinema Labyrinth",
+					"id": 50010000046836,
+					"product_code": "CTR-P-AQ2E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/1b754f48ceefe03a56360b829e22621f722ea6ab1e5160badeb74f86c4e4a8d6.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/47fd498ce555c9b805ffb66fa2802a2b09eae053295acca4d18fc0d7cec90e71.jpg",
+					"new": false
+				},
+				"index": 2
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "ATLUS",
+						"id": 25
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/715503ff499459c02470c602250dce1cbd063735074bfac7d729e9ad6f1f172f.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/f9fd343a778ba3f44fb995a127d7c18a13418511ec10753562c91b0bd4387e4d.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "M",
+							"age": 17,
+							"id": 5
+						}
+					},
+					"star_rating_info": {
+						"score": 4.89,
+						"votes": 1229,
+						"star1": 7,
+						"star2": 12,
+						"star3": 25,
+						"star4": 144,
+						"star5": 1041
+					},
+					"release_date_on_eshop": "2016-09-20",
+					"release_date_on_retail": "2016-09-20",
+					"price_on_retail": "$49.99",
+					"price_on_retail_detail": {
+						"amount": "$49.99",
+						"currency": "USD",
+						"raw_value": "49.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Shin Megami Tensei IV: \nApocalypse",
+					"id": 50010000041325,
+					"product_code": "CTR-N-BG4E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/24d3a66ea0fda5b411bcb6f45d6d99cda0a6a41678e2af9942461e10ee81fe63.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ffc1e2a349c382cb87de152980c236ccae7c65d1cf520ac5ad7cc6189d563081.jpg",
+					"new": false
+				},
+				"index": 3
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy Color",
+						"id": 22,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "RPG / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.81,
+						"votes": 3510,
+						"star1": 40,
+						"star2": 23,
+						"star3": 136,
+						"star4": 564,
+						"star5": 2747
+					},
+					"release_date_on_eshop": "2018-01-26",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon™ Crystal Version\n(English Version)",
+					"id": 50010000044716,
+					"product_code": "CTR-N-QBRA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d021f2f90718052a4eb3d49a12050a5e6bc196849446422f03349193f91d8af1.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/9243ae7bf59ebbab6f12b45b6cc6194b63c42b6d647c42e9a1e0023176c7f85d.jpg",
+					"new": false
+				},
+				"index": 4
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "SEGA",
+						"id": 231
+					},
+					"display_genre": "RPG / Fighting",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/715503ff499459c02470c602250dce1cbd063735074bfac7d729e9ad6f1f172f.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/f9fd343a778ba3f44fb995a127d7c18a13418511ec10753562c91b0bd4387e4d.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "M",
+							"age": 17,
+							"id": 5
+						}
+					},
+					"star_rating_info": {
+						"score": 4.74,
+						"votes": 11009,
+						"star1": 133,
+						"star2": 181,
+						"star3": 473,
+						"star4": 2124,
+						"star5": 8098
+					},
+					"release_date_on_eshop": "2013-07-16",
+					"release_date_on_retail": "2013-07-16",
+					"price_on_retail": "$19.99",
+					"price_on_retail_detail": {
+						"amount": "$19.99",
+						"currency": "USD",
+						"raw_value": "19.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": true,
+					"name": "Shin Megami Tensei® IV",
+					"id": 50010000014943,
+					"product_code": "CTR-N-AMXE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d951beda4035a94220a2ed2b874f1f08d8fc488b73f6ef30445333f9bc22ca89.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/5566946d1be3b48c6bfa62a220f2407020ba0ce8acada29b0b565567ceb0abe7.jpg",
+					"new": false
+				},
+				"index": 5
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "SEGA",
+						"id": 231
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/715503ff499459c02470c602250dce1cbd063735074bfac7d729e9ad6f1f172f.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/f9fd343a778ba3f44fb995a127d7c18a13418511ec10753562c91b0bd4387e4d.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "M",
+							"age": 17,
+							"id": 5
+						}
+					},
+					"star_rating_info": {
+						"score": 4.48,
+						"votes": 3139,
+						"star1": 68,
+						"star2": 114,
+						"star3": 269,
+						"star4": 863,
+						"star5": 1825
+					},
+					"release_date_on_eshop": "2013-04-16",
+					"release_date_on_retail": "2013-04-16",
+					"price_on_retail": "$19.99",
+					"price_on_retail_detail": {
+						"amount": "$19.99",
+						"currency": "USD",
+						"raw_value": "19.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Shin Megami Tensei®: Devil\n<br>Summoner®: Soul Hackers",
+					"id": 50010000013870,
+					"product_code": "CTR-N-AHQE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/7ab2b8ac654f46ff87150b0c7fe076e68fa1aeb48fc519fbf0fd87b06189bf59.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/f394adcb51ac112ae060e0fa3581e3594e989a0577a4f5cea221d173f4d64e78.jpg",
+					"new": false
+				},
+				"index": 6
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "ATLUS",
+						"id": 25
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/715503ff499459c02470c602250dce1cbd063735074bfac7d729e9ad6f1f172f.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/f9fd343a778ba3f44fb995a127d7c18a13418511ec10753562c91b0bd4387e4d.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "M",
+							"age": 17,
+							"id": 5
+						}
+					},
+					"star_rating_info": {
+						"score": 4.85,
+						"votes": 445,
+						"star1": 6,
+						"star2": 6,
+						"star3": 13,
+						"star4": 55,
+						"star5": 365
+					},
+					"release_date_on_eshop": "2018-05-15",
+					"release_date_on_retail": "2018-05-15",
+					"price_on_retail": "$39.99",
+					"price_on_retail_detail": {
+						"amount": "$39.99",
+						"currency": "USD",
+						"raw_value": "39.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Shin Megami Tensei:\nStrange Journey Redux",
+					"id": 50010000043777,
+					"product_code": "CTR-P-AJ9E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/eb0671254f29ecf13308a8494009ec070d4e14ac91273e529fd0b2e1d6373ff6.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/2a59f4154e585af5fc0105b6f2abcdc6322945a283ab58a69784f449a913d256.jpg",
+					"new": false
+				},
+				"index": 7
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "SEGA",
+						"id": 231
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/715503ff499459c02470c602250dce1cbd063735074bfac7d729e9ad6f1f172f.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/f9fd343a778ba3f44fb995a127d7c18a13418511ec10753562c91b0bd4387e4d.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "M",
+							"age": 17,
+							"id": 5
+						}
+					},
+					"star_rating_info": {
+						"score": 4.74,
+						"votes": 5120,
+						"star1": 62,
+						"star2": 82,
+						"star3": 247,
+						"star4": 930,
+						"star5": 3799
+					},
+					"release_date_on_eshop": "2014-11-25",
+					"release_date_on_retail": "TBD",
+					"price_on_retail": "$19.99",
+					"price_on_retail_detail": {
+						"amount": "$19.99",
+						"currency": "USD",
+						"raw_value": "19.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": true,
+					"name": "Persona Q: Shadow\n<br>of the Labyrinth",
+					"id": 50010000027175,
+					"product_code": "CTR-N-AQQE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/adb980403b3204e0c3557bf46456ac51f1431c4108d2ea705d09f090efc50b02.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/13180a62c58e96863bb011c72edeb1c62def5dfbebf49472e8a326820916f561.jpg",
+					"new": false
+				},
+				"index": 8
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "The Pokémon Company",
+						"id": 210
+					},
+					"display_genre": "RPG / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.31,
+						"votes": 16716,
+						"star1": 1066,
+						"star2": 769,
+						"star3": 1871,
+						"star4": 3441,
+						"star5": 9569
+					},
+					"release_date_on_eshop": "2016-10-18",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon™ Sun and\nPokémon™ Moon Special Demo\n",
+					"id": 50010000041552,
+					"product_code": "CTR-N-BACA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ce12da2f12de1be78a8c8c940dbd5a65d42aef3ce0b4b32a318fd96090d2debc.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/16407c92f66ad6ef1d27de5c3443ace27729c2fc0718970d3d6fd17e44c07891.jpg",
+					"new": false
+				},
+				"index": 9
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "SEGA",
+						"id": 231
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.84,
+						"votes": 1599,
+						"star1": 16,
+						"star2": 13,
+						"star3": 48,
+						"star4": 228,
+						"star5": 1294
+					},
+					"release_date_on_eshop": "2015-05-05",
+					"release_date_on_retail": "2015-05-05",
+					"price_on_retail": "$19.99",
+					"price_on_retail_detail": {
+						"amount": "$19.99",
+						"currency": "USD",
+						"raw_value": "19.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": true,
+					"name": "Shin Megami Tensei: Devil\n<br>Survivor 2: Record Breaker",
+					"id": 50010000031776,
+					"product_code": "CTR-N-ADXE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/c787a93181f8ba68cbdec2d42440abc0f67cdff6c1dfff8ed6c0c5152705ba77.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e9259664737f07b744125e025e0f900d88562e8010b13ba387c51c524006750f.jpg",
+					"new": false
+				},
+				"index": 10
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "SEGA",
+						"id": 231
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.72,
+						"votes": 7028,
+						"star1": 96,
+						"star2": 110,
+						"star3": 338,
+						"star4": 1394,
+						"star5": 5090
+					},
+					"release_date_on_eshop": "2013-10-10",
+					"release_date_on_retail": "2011-08-23",
+					"price_on_retail": "$19.99",
+					"price_on_retail_detail": {
+						"amount": "$19.99",
+						"currency": "USD",
+						"raw_value": "19.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "2011-06-03",
+					"name": "Shin Megami Tensei®: Devil\n<br>Survivor Overclocked™",
+					"id": 50010000006895,
+					"product_code": "CTR-N-AMTE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d6780f3a14d382b593705095d773cd20384aa9c2e6418dfd4f116fb16f17f131.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/8b03d05e5e284b8a22f4b5caf3d010a554b6b346e95eb9c421401b5ae4084b2e.jpg",
+					"new": false
+				},
+				"index": 11
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "SEGA",
+						"id": 231
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.85,
+						"votes": 261,
+						"star1": 2,
+						"star2": 1,
+						"star3": 7,
+						"star4": 39,
+						"star5": 212
+					},
+					"release_date_on_eshop": "2019-02-05",
+					"release_date_on_retail": "2019-02-05",
+					"price_on_retail": "$39.99",
+					"price_on_retail_detail": {
+						"amount": "$39.99",
+						"currency": "USD",
+						"raw_value": "39.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Etrian Odyssey Nexus",
+					"id": 50010000046255,
+					"product_code": "CTR-P-BZME",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3284172cd5177abf15e7a83b5196a1444597ba2d228d58f08d36fe6320f5f66c.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/fa911f4b290ee43eb01c5aa103ed1c90ab6281c1b3fd76caae03ed6b4fcc36a3.jpg",
+					"new": false
+				},
+				"index": 12
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "SEGA",
+						"id": 231
+					},
+					"display_genre": "RPG / Strategy",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.8,
+						"votes": 1968,
+						"star1": 16,
+						"star2": 19,
+						"star3": 69,
+						"star4": 339,
+						"star5": 1525
+					},
+					"release_date_on_eshop": "2015-11-17",
+					"release_date_on_retail": "TBD",
+					"price_on_retail": "$19.99",
+					"price_on_retail_detail": {
+						"amount": "$19.99",
+						"currency": "USD",
+						"raw_value": "19.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "2012-08-16",
+					"name": "Stella Glow",
+					"id": 50010000037855,
+					"product_code": "CTR-N-BS3E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/042238dc67a0bd151573bdd2ea0788bdaa59dfdfee0b42939a5758225f4c7672.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/275796c94513ada0fcf5806f61b438526da9f0f1287d0614e037fd867daeeaed.jpg",
+					"new": false
+				},
+				"index": 13
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "ATLUS",
+						"id": 25
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.78,
+						"votes": 627,
+						"star1": 4,
+						"star2": 10,
+						"star3": 20,
+						"star4": 117,
+						"star5": 476
+					},
+					"release_date_on_eshop": "2017-10-17",
+					"release_date_on_retail": "2017-10-17",
+					"price_on_retail": "$29.99",
+					"price_on_retail_detail": {
+						"amount": "$29.99",
+						"currency": "USD",
+						"raw_value": "29.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Etrian Odyssey V: \nBeyond the Myth",
+					"id": 50010000042824,
+					"product_code": "CTR-P-BMZE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d8b1ae6d1f1d8f5206985fa5a0002f1b5499436ebf6697f6550d709ea3d9fe15.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/65fdeff4ae78ea53dc12fc8097af6057598cca76a1408ca39948977de21b984c.jpg",
+					"new": false
+				},
+				"index": 14
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy Color",
+						"id": 22,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.8,
+						"votes": 8606,
+						"star1": 115,
+						"star2": 111,
+						"star3": 374,
+						"star4": 1245,
+						"star5": 6761
+					},
+					"release_date_on_eshop": "2016-02-27",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon™ Yellow Version\n(English Version)",
+					"id": 50010000038517,
+					"product_code": "CTR-N-QBFA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/cbaad17d2b8ec4cfa57f0727f603184a7531438178c1b852e44d5f24004b4034.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/a53a744dab2677a119d4cdc7eabe635c65b271c0574609c221f1a16805a88c1d.jpg",
+					"new": false
+				},
+				"index": 15
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "SEGA",
+						"id": 231
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.85,
+						"votes": 1117,
+						"star1": 5,
+						"star2": 5,
+						"star3": 30,
+						"star4": 162,
+						"star5": 915
+					},
+					"release_date_on_eshop": "2015-08-04",
+					"release_date_on_retail": "2015-08-04",
+					"price_on_retail": "$19.99",
+					"price_on_retail_detail": {
+						"amount": "$19.99",
+						"currency": "USD",
+						"raw_value": "19.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": false,
+					"in_app_purchase": true,
+					"name": "Etrian Odyssey 2 Untold:\n<br>The Fafnir Knight",
+					"id": 50010000032035,
+					"product_code": "CTR-N-BM9E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d30cd58e72a616233a644c181f4045fd479d430de4f8236764dcf230576df037.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/53ecb0643e062ac3b0c2adad952667115280cae5d26f86d2e1bc1a0bca860035.jpg",
+					"new": false
+				},
+				"index": 16
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "SEGA USA",
+						"id": 233
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.7,
+						"votes": 979,
+						"star1": 11,
+						"star2": 14,
+						"star3": 48,
+						"star4": 214,
+						"star5": 692
+					},
+					"release_date_on_eshop": "2016-07-12",
+					"release_date_on_retail": "2016-07-12",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": true,
+					"in_app_purchase": false,
+					"name": "7th Dragon III Code: VFD",
+					"id": 50010000040099,
+					"product_code": "CTR-N-BD7E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/81849f64e1f14490aec07add345134306159ece9c433f878112a39a8d2dcc22b.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/be416ae3a62f907c16bfbf139d0399d4d1927e4f952bfd39953056a03d13da54.jpg",
+					"new": false
+				},
+				"index": 17
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "The Pokémon Company",
+						"id": 210
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.29,
+						"votes": 24020,
+						"star1": 1288,
+						"star2": 1177,
+						"star3": 3087,
+						"star4": 5306,
+						"star5": 13162
+					},
+					"release_date_on_eshop": "2014-12-26",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon Omega Ruby and\nAlpha Sapphire Special Demo",
+					"id": 50010000026335,
+					"product_code": "CTR-N-NAHA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/232a4d83080fe6d0878a02ad360436370db3f4a0682e7e75f862edc502461918.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/b30a47f626819bb38ac858679ab2e7366be37b6d1efd9608748be65ce5b500c4.jpg",
+					"new": false
+				},
+				"index": 18
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "SEGA",
+						"id": 231
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.77,
+						"votes": 5829,
+						"star1": 38,
+						"star2": 60,
+						"star3": 216,
+						"star4": 1158,
+						"star5": 4357
+					},
+					"release_date_on_eshop": "2013-02-26",
+					"release_date_on_retail": "2013-02-26",
+					"price_on_retail": "$19.99",
+					"price_on_retail_detail": {
+						"amount": "$19.99",
+						"currency": "USD",
+						"raw_value": "19.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Etrian Odyssey™ IV:\n<br>Legends of the Titan",
+					"id": 50010000013116,
+					"product_code": "CTR-N-ASJE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e0482bdbbc075313273ae8e23758235fe3dfb195b32719270194dd2352b0b5ef.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/2b286dc563af5036123d6553ece2fe5f97cb0b5e191650d76a07f425bd195fa7.jpg",
+					"new": false
+				},
+				"index": 19
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "SEGA",
+						"id": 231
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.72,
+						"votes": 4391,
+						"star1": 30,
+						"star2": 60,
+						"star3": 197,
+						"star4": 981,
+						"star5": 3123
+					},
+					"release_date_on_eshop": "2013-10-01",
+					"release_date_on_retail": "2013-10-01",
+					"price_on_retail": "$19.99",
+					"price_on_retail_detail": {
+						"amount": "$19.99",
+						"currency": "USD",
+						"raw_value": "19.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Etrian Odyssey™ Untold:\n<br>The Millennium Girl",
+					"id": 50010000016013,
+					"product_code": "CTR-N-BSKE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/9bd30b89bf8012fa5f5cf992569726b1f7701e4a24e1d33340caecdf9c4479c6.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/bb3036173bae19eec2b6517e4ab970c9445b04df6d30cf1dc78227fc6a948b94.jpg",
+					"new": false
+				},
+				"index": 20
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy",
+						"id": 21,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.79,
+						"votes": 4357,
+						"star1": 61,
+						"star2": 58,
+						"star3": 185,
+						"star4": 660,
+						"star5": 3393
+					},
+					"release_date_on_eshop": "2016-02-27",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon™ Red Version\n(English Version)",
+					"id": 50010000038523,
+					"product_code": "CTR-N-RCQA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/7e3546f423cef3bc5301ebf8dd33590a8a50527db77d801b0cf4045f7bae4154.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/877c313f8cda44fae4a3fbe97a5cde142376d62e25dca9276e8f18256bfab9a8.jpg",
+					"new": false
+				},
+				"index": 21
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy Color",
+						"id": 22,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "RPG / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.83,
+						"votes": 2520,
+						"star1": 24,
+						"star2": 27,
+						"star3": 86,
+						"star4": 372,
+						"star5": 2011
+					},
+					"release_date_on_eshop": "2017-09-22",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "2000-10",
+					"name": "Pokémon™ Gold Version\n(English Version)",
+					"id": 50010000043076,
+					"product_code": "CTR-N-QBPA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/79f78c48c579bec8eebb4f1873adba901053c7f59a308c81ff32a782aff0de1b.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3114bd501dc4f7255b14c8294c93c75c4191a15b745a8d94369746ca7cf60d32.jpg",
+					"new": false
+				},
+				"index": 22
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy Color",
+						"id": 22,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "RPG / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.83,
+						"votes": 2429,
+						"star1": 23,
+						"star2": 30,
+						"star3": 83,
+						"star4": 348,
+						"star5": 1945
+					},
+					"release_date_on_eshop": "2017-09-22",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon™ Silver Version\n(English Version)",
+					"id": 50010000043077,
+					"product_code": "CTR-N-QBQA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/393ee66275a84cf432121cc818b95336faa42c8edaefeb9830765b1074efad06.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/1dc3a9c534d09d1690ee3d0f7985f364b9375e37dcf190ddb87846ce36c49cf5.jpg",
+					"new": false
+				},
+				"index": 23
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy",
+						"id": 21,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.78,
+						"votes": 3286,
+						"star1": 33,
+						"star2": 32,
+						"star3": 157,
+						"star4": 541,
+						"star5": 2523
+					},
+					"release_date_on_eshop": "2016-02-27",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon™ Blue Version\n(English Version)",
+					"id": 50010000038526,
+					"product_code": "CTR-N-RCRA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e2efa6b30e0eaa27efbae9b3f33158fbd75a9deb4b6ebeb3d029cfff5b5497b2.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/8876c33988ef5eb2577b74327257c2d77336abaa0f5e20a99d2cd0106fe03abf.jpg",
+					"new": false
+				},
+				"index": 24
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.91,
+						"votes": 178811,
+						"star1": 2021,
+						"star2": 1413,
+						"star3": 3653,
+						"star4": 15730,
+						"star5": 155994
+					},
+					"release_date_on_eshop": "2012-10-18",
+					"release_date_on_retail": "2011-06-19",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "2011-06-03",
+					"name": "The Legend of Zelda™:\nOcarina of Time™ 3D",
+					"id": 50010000000541,
+					"product_code": "CTR-N-AQEE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/7dce2541504053c737e91fe9fae1e5c79a928d530e6de9b34fb7378d030efe29.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/b4d4e94405f84ff04933a784a06f8a91a345d1934365334536692f42ee7f0424.jpg",
+					"new": false
+				},
+				"index": 25
+			}],
+			"length": 25,
+			"offset": 0,
+			"total": 215
+		},
+		"id": 1071139,
+		"type": "search",
+		"component": "title"
+	}
+}

@@ -1,0 +1,31 @@
+{
+	"title": {
+		"aocs": {
+			"aoc": [{
+				"name": "IRONFALL Invasion: Campaign",
+				"price": {
+					"regular_price": {
+						"amount": "9.99",
+						"currency": "USD"
+					}
+				}
+			}, {
+				"name": "IRONFALL Invasion: Multiplayer",
+				"price": {
+					"regular_price": {
+						"amount": "9.99",
+						"currency": "USD"
+					}
+				}
+			}, {
+				"name": "IRONFALL Invasion: Campaign and IRONFALL Invasion: Multiplayer",
+				"price": {
+					"regular_price": {
+						"amount": "19.98",
+						"currency": "USD"
+					}
+				}
+			}]
+		}
+	}
+}

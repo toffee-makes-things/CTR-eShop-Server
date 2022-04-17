@@ -1,0 +1,1338 @@
+{
+	"directory": {
+		"name": "New Releases",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/fc7c911fcf66bf7da488465a84665d1f976613fb983edc54750d8b3179cc091a.jpg",
+		"icon_width": 76,
+		"icon_height": 58,
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/bc43cca61e5d8596f5de844d7210e5722c7052b424379e687f40582b05424741.jpg",
+		"description": "Did you know?\r\nBy touching the SORT/Filter button, you can sort this list of titles by latest arrivals, popularity or user reviews. You can also filter by genre or publisher.",
+		"contents": {
+			"content": [{
+				"title": {
+					"platform": {
+						"name": "New 3DS Download Only",
+						"id": 1001,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Batafurai",
+						"id": 1865
+					},
+					"display_genre": "Arcade / Strategy / Simulation",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 5.0,
+						"votes": 4,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 0,
+						"star5": 4
+					},
+					"release_date_on_eshop": "2021-12-27",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Gal Galaxy Pain",
+					"id": 50010000049355,
+					"product_code": "KTR-N-CC6E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/22bad90959b0744032ea2623bb8c3d7be209c8f101b1259f9e8fec417fca9829.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/4d07bc9a55da2f41ca62d5dc3789cf0fa1bb3ee124dd61e71b5172740fa9cc76.jpg",
+					"new": false
+				},
+				"index": 1
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "nuGAME",
+						"id": 1610
+					},
+					"display_genre": "Arcade / Other",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 5.0,
+						"votes": 2,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 0,
+						"star5": 2
+					},
+					"release_date_on_eshop": "2021-03-11",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Bricks Pinball VI",
+					"id": 50010000049115,
+					"product_code": "CTR-N-A5TE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0ba0dd0ee5822262c040e5afdc72b115d4977b88f3f050684af2852096e1ec5b.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/5e3d6c9926021410aa574f45a09b4f4b0af26f40bab6be747f5b3712321d6195.jpg",
+					"new": false
+				},
+				"index": 2
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "nuGAME",
+						"id": 1610
+					},
+					"display_genre": "Arcade / Other",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 5.0,
+						"votes": 1,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 0,
+						"star5": 1
+					},
+					"release_date_on_eshop": "2021-01-28",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Bricks Pinball 4",
+					"id": 50010000049055,
+					"product_code": "CTR-N-AQ3E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/c138b839ae6d8a222de242596a8a07a864bbeb6e10ab53c0d38c13c8600f57b0.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/5e37f59ad5e432307dba50edad2244b9b801d83f51c0e072baf5444df2f008d4.jpg",
+					"new": false
+				},
+				"index": 3
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "nuGAME",
+						"id": 1610
+					},
+					"display_genre": "Arcade / Other",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 5.0,
+						"votes": 1,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 0,
+						"star5": 1
+					},
+					"release_date_on_eshop": "2020-12-03",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Bricks Pinball 3",
+					"id": 50010000048955,
+					"product_code": "CTR-N-A3TE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/92362294ae8b6446cc698ecd05c708383b0fde3e53ca349e27ef22260d27e02b.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/35104f03ab409c9b3ca0f49a652405bb2fa2230c291eb21e97befdffc40cb7f0.jpg",
+					"new": false
+				},
+				"index": 4
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Famous Gamous",
+						"id": 1437
+					},
+					"display_genre": "Fighting / Action / Arcade",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 5.0,
+						"votes": 3,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 0,
+						"star5": 3
+					},
+					"release_date_on_eshop": "2020-11-12",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Kung Tutu",
+					"id": 50010000048975,
+					"product_code": "CTR-N-L31E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/252849370149782fc4d1869e7f91aa0decaa29b707a36cfd40436ac49c672904.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/7e3113bd75580fc6e6a40b90968335be5c5f3c6b904b16e1e03354c62113563a.jpg",
+					"new": false
+				},
+				"index": 5
+			}, {
+				"title": {
+					"platform": {
+						"name": "New 3DS Download Only",
+						"id": 1001,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Skunk Software",
+						"id": 1447
+					},
+					"display_genre": "Arcade / Education",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 5.0,
+						"votes": 1,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 0,
+						"star5": 1
+					},
+					"release_date_on_eshop": "2018-06-07",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Games for Toddlers 2",
+					"id": 50010000045875,
+					"product_code": "KTR-N-CFTE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/380faf1b6e9fd3cfb86d38c19c38d80b67cd73b7cd329f41a4f150b9349e3544.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/331008cba3254f57cf23e94133348cfce61e1e6442f1cc70aed2c7f50eb0911d.jpg",
+					"new": false
+				},
+				"index": 6
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Sonic Powered",
+						"id": 244
+					},
+					"display_genre": "Simulation",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 5.0,
+						"votes": 15,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 0,
+						"star5": 15
+					},
+					"release_date_on_eshop": "2017-12-07",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Japanese Rail Sim 3D \nTravel of Steam",
+					"id": 50010000044315,
+					"product_code": "CTR-N-BTGE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3d7a79920dad5a504b61306b588c1be95ac99cb22aef8ff3d50023fbfc462e4b.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/5490bc4ce58f880506f76f0b424fea91d11c04646b65979a2818ab540c8e35f3.jpg",
+					"new": false
+				},
+				"index": 7
+			}, {
+				"title": {
+					"platform": {
+						"name": "Downloadable Video",
+						"id": 43,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Video",
+					"star_rating_info": {
+						"score": 5.0,
+						"votes": 32,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 2,
+						"star5": 30
+					},
+					"release_date_on_eshop": "2016-12-01",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "The Legend of Zelda\nBallad of The Goddess",
+					"id": 50010000042124,
+					"product_code": "CTR-N-SP5E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/951368b865e68efcaeb8481a45f535c1317f8f1aa9284155ea422e22cb19b433.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/8cec4f63bba90f900ae9ae9a42e29482b73ad9f5160bb0800b83fadf026a4c89.jpg",
+					"new": false
+				},
+				"index": 8
+			}, {
+				"title": {
+					"platform": {
+						"name": "Game Boy",
+						"id": 21,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "RPG",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 5.0,
+						"votes": 10,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 1,
+						"star5": 9
+					},
+					"release_date_on_eshop": "2016-02-27",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Pokémon™ Blue Version\n(French Version)",
+					"id": 50010000038521,
+					"product_code": "CTR-N-RCVA",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e2efa6b30e0eaa27efbae9b3f33158fbd75a9deb4b6ebeb3d029cfff5b5497b2.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/4a0d10a58ba556b67147432ca0cf912c81f6f3a146ee166c5bef3296b7e93ee7.jpg",
+					"new": false
+				},
+				"index": 9
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nacon",
+						"id": 31
+					},
+					"display_genre": "Arcade",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 5.0,
+						"votes": 1,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 0,
+						"star5": 1
+					},
+					"release_date_on_eshop": "2015-08-13",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Best of Arcade Games -\nAir Hockey",
+					"id": 50010000036135,
+					"product_code": "CTR-N-JGTE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3184decf41b84443382120fb7af5e83b027d4a3e4ba4d202e52a232b553f130c.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/68ec98ea35ee94b0c1f85856c68b781236618aebcc0b086b9467582a45883d64.jpg",
+					"new": false
+				},
+				"index": 10
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo DSiWare",
+						"id": 20,
+						"device": "CTR",
+						"category": 9
+					},
+					"publisher": {
+						"name": "Goodvision Corporation",
+						"id": 106
+					},
+					"display_genre": "Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 5.0,
+						"votes": 1,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 0,
+						"star5": 1
+					},
+					"release_date_on_eshop": "2015-06-25",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "G.G Series NYOKKI",
+					"id": 50010000034595,
+					"product_code": "TWL-N-KU9E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/30d935c83a7c9dd856e98f30597ce305b6b35b94b60b3b5e91f15c7eb25f166e.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/2cbcfb0f9bf9f218d0eb0146541c3ba204d7cb1e3343dbdea9abd062353b03b9.jpg",
+					"new": false
+				},
+				"index": 11
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo DSiWare",
+						"id": 20,
+						"device": "CTR",
+						"category": 9
+					},
+					"publisher": {
+						"name": "Goodvision Corporation",
+						"id": 106
+					},
+					"display_genre": "Puzzle",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 5.0,
+						"votes": 1,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 0,
+						"star5": 1
+					},
+					"release_date_on_eshop": "2015-06-25",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "G.G Series VERTEX",
+					"id": 50010000034855,
+					"product_code": "TWL-N-KVEE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/8ce8a6a1c6a4ba07ba88f83f4fc1fdb6c1204971eaa7cb699d5fdfea3eb4eb70.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ebcd9c7e0cc18aaf0ffb15992f71133e7e0152d9aa9a3d0e97156a489f24e275.jpg",
+					"new": false
+				},
+				"index": 12
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo DSiWare",
+						"id": 20,
+						"device": "CTR",
+						"category": 9
+					},
+					"publisher": {
+						"name": "Goodvision Corporation",
+						"id": 106
+					},
+					"display_genre": "Action / Racing",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 5.0,
+						"votes": 1,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 0,
+						"star5": 1
+					},
+					"release_date_on_eshop": "2015-06-04",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "G.G. Series COSMO RALLY!!",
+					"id": 50010000034115,
+					"product_code": "TWL-N-K5DE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e3edd2489105f5417d4f7a94ec9b876345504f0d0fc7e626a595b6d05a313198.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d4ec9690fe3edc5d0d29fd96b2c3fd5c9d93bef0df829c446f72218bab9b0262.jpg",
+					"new": false
+				},
+				"index": 13
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Education",
+					"star_rating_info": {
+						"score": 5.0,
+						"votes": 1,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 0,
+						"star5": 1
+					},
+					"release_date_on_eshop": "2013-12-02",
+					"release_date_on_retail": "TBD",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Nintendo 3DS™ Guide: Louvre\n(French Version)",
+					"id": 50010000017814,
+					"product_code": "CTR-P-AL8F",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/34ebb131043b51aaf2c53073e926cd1372e2c5c4ce2e7789bb8fd6e771375d25.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/164aae763d6328c106491fe2e37387eb76fb2fb194cd29a0149d49ecbd7a4206.jpg",
+					"new": false
+				},
+				"index": 14
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Education",
+					"star_rating_info": {
+						"score": 5.0,
+						"votes": 5,
+						"star1": 0,
+						"star2": 0,
+						"star3": 0,
+						"star4": 0,
+						"star5": 5
+					},
+					"release_date_on_eshop": "2013-12-02",
+					"release_date_on_retail": "TBD",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Nintendo 3DS™ Guide: Louvre\n(Spanish Version)",
+					"id": 50010000017817,
+					"product_code": "CTR-P-AL8S",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/34ebb131043b51aaf2c53073e926cd1372e2c5c4ce2e7789bb8fd6e771375d25.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ff3559b11c26604de8883cc8dea63316de37949bb419002f9d609356a6ed4f99.jpg",
+					"new": false
+				},
+				"index": 15
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "RPG / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.96,
+						"votes": 1206,
+						"star1": 7,
+						"star2": 7,
+						"star3": 10,
+						"star4": 79,
+						"star5": 1103
+					},
+					"release_date_on_eshop": "2019-02-08",
+					"release_date_on_retail": "2019-02-08",
+					"price_on_retail": "$39.99",
+					"price_on_retail_detail": {
+						"amount": "$39.99",
+						"currency": "USD",
+						"raw_value": "39.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "YO-KAI WATCH ™ 3",
+					"id": 50010000046615,
+					"product_code": "CTR-N-ALZE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/64d707e17f5608a9f56e20985109da4a5ba2d98dfb9c12f382e8ba8354b2953d.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/bc3e92d1dee9c11636514087e3f70fbe727b6d2cb6ce571369f07bc899737e7b.jpg",
+					"new": false
+				},
+				"index": 16
+			}, {
+				"title": {
+					"platform": {
+						"name": "Downloadable Video",
+						"id": 43,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Video",
+					"star_rating_info": {
+						"score": 4.95,
+						"votes": 24,
+						"star1": 0,
+						"star2": 0,
+						"star3": 1,
+						"star4": 1,
+						"star5": 22
+					},
+					"release_date_on_eshop": "2016-12-01",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "The Legend of Zelda\nGreat Fairy's Fountain Theme",
+					"id": 50010000042126,
+					"product_code": "CTR-N-SP7E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/90aae711c93dc8ff3d8df66866e6257af3927776ee824464fea2fbf653578f18.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/a239062786cb0c2052800332fc6269d432763f8227853196ecc42bc8d65f6d12.jpg",
+					"new": false
+				},
+				"index": 17
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Strategy",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.94,
+						"votes": 53807,
+						"star1": 186,
+						"star2": 185,
+						"star3": 698,
+						"star4": 4669,
+						"star5": 48069
+					},
+					"release_date_on_eshop": "2013-02-04",
+					"release_date_on_retail": "2013-02-04",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": true,
+					"aoc_available": true,
+					"in_app_purchase": true,
+					"name": "Fire Emblem™ Awakening",
+					"id": 50010000012898,
+					"product_code": "CTR-N-AFEE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/705bdce2f4c1189ad99eb312dcb78e175a2df7ea17937995f872d8707b8cb48a.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/00cec845d0fe0af7fde08632b9c518f4f2f541760724f3502f16b9c4f1cc797d.jpg",
+					"new": false
+				},
+				"index": 18
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "RPG / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.92,
+						"votes": 1165,
+						"star1": 9,
+						"star2": 10,
+						"star3": 25,
+						"star4": 102,
+						"star5": 1019
+					},
+					"release_date_on_eshop": "2017-09-29",
+					"release_date_on_retail": "2017-09-29",
+					"price_on_retail": "$39.99",
+					"price_on_retail_detail": {
+						"amount": "$39.99",
+						"currency": "USD",
+						"raw_value": "39.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "YO-KAI WATCH™ 2:\nPsychic Specters",
+					"id": 50010000042082,
+					"product_code": "CTR-N-BYSE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/75a18f152c459444cfe10e911756c4445f892858b2eb7aa3b79fd7b2a1fb08ca.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/0bffd2a0b5b57b93f2d466b7a4ceb67f9b876410f0811a41739cf0c4ca6a5937.jpg",
+					"new": false
+				},
+				"index": 19
+			}, {
+				"title": {
+					"platform": {
+						"name": "Super NES",
+						"id": 1004,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Platformer",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.92,
+						"votes": 729,
+						"star1": 6,
+						"star2": 3,
+						"star3": 19,
+						"star4": 63,
+						"star5": 638
+					},
+					"release_date_on_eshop": "2016-04-14",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Donkey Kong Country 2:\nDiddy's Kong Quest™",
+					"id": 50010000039758,
+					"product_code": "KTR-N-UAJE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/56c5c64617a3cc6e2804f7cedd66532b5454de86f651ebd826e272e4482bfe44.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/c80fdfe971df35d625d046856cd34fa8a367af226d1bea6cc1803e7c6fa8090e.jpg",
+					"new": false
+				},
+				"index": 20
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "CAPCOM",
+						"id": 41
+					},
+					"display_genre": "Courtroom Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.92,
+						"votes": 4075,
+						"star1": 10,
+						"star2": 13,
+						"star3": 56,
+						"star4": 414,
+						"star5": 3582
+					},
+					"release_date_on_eshop": "2014-12-09",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Phoenix Wright®:\nAce Attorney® Trilogy",
+					"id": 50010000028315,
+					"product_code": "CTR-N-BHDE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/48d5d639b9bb80cabc8d405fd8fef819813627deb2f1082e3eb0c03cb99ae5bc.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/06da923be0a93b40559c7ac46fe080febc56e5cb479161edcc2ed7045871d260.jpg",
+					"new": false
+				},
+				"index": 21
+			}, {
+				"title": {
+					"platform": {
+						"name": "Super NES",
+						"id": 1004,
+						"device": "CTR",
+						"category": 10
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E",
+							"age": 6,
+							"id": 2
+						}
+					},
+					"star_rating_info": {
+						"score": 4.91,
+						"votes": 2276,
+						"star1": 12,
+						"star2": 10,
+						"star3": 38,
+						"star4": 238,
+						"star5": 1978
+					},
+					"release_date_on_eshop": "2016-04-14",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Super Metroid™",
+					"id": 50010000039736,
+					"product_code": "KTR-N-UACE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/3bce389e6a0f3cdc6cb4b8113e43084ec14556b868acbc2b4787cb24225ee9a0.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e9dcb4723a834a97d558bc317e9fa0dd2ebf4293be2f42c18bd86b5b93f2f9e1.jpg",
+					"new": false
+				},
+				"index": 22
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Retail/Download",
+						"id": 103,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / Adventure",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/62df6f50c416d965c629ff05d9b52da58adceae35a7a28a5963b412626e1df6c.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c95e44e5fe15a66512d87b613aa7c6c8b4e52c88ab4292265c9660be9057c379.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "E10+",
+							"age": 10,
+							"id": 3
+						}
+					},
+					"star_rating_info": {
+						"score": 4.91,
+						"votes": 178811,
+						"star1": 2021,
+						"star2": 1413,
+						"star3": 3653,
+						"star4": 15730,
+						"star5": 155994
+					},
+					"release_date_on_eshop": "2012-10-18",
+					"release_date_on_retail": "2011-06-19",
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"release_date_on_original": "2011-06-03",
+					"name": "The Legend of Zelda™:\nOcarina of Time™ 3D",
+					"id": 50010000000541,
+					"product_code": "CTR-N-AQEE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/7dce2541504053c737e91fe9fae1e5c79a928d530e6de9b34fb7378d030efe29.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/b4d4e94405f84ff04933a784a06f8a91a345d1934365334536692f42ee7f0424.jpg",
+					"new": false
+				},
+				"index": 23
+			}, {
+				"title": {
+					"platform": {
+						"name": "Nintendo 3DS Download Only",
+						"id": 19,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Vblank Entertainment",
+						"id": 1105
+					},
+					"display_genre": "Action / Adventure / Shooter / Racing",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.9,
+						"votes": 143,
+						"star1": 0,
+						"star2": 1,
+						"star3": 4,
+						"star4": 15,
+						"star5": 123
+					},
+					"release_date_on_eshop": "2019-09-19",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Shakedown: Hawaii",
+					"id": 50010000048115,
+					"product_code": "CTR-P-AHYE",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ab5388c2144e8322fb32b751ad0b6d1854acdb9d868d1e36c3956770ebccf47e.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ae6abcf80343520e9fb4a6a2224c46283a096ccdfa77d28d53a98f9effc45695.jpg",
+					"new": false
+				},
+				"index": 24
+			}, {
+				"title": {
+					"platform": {
+						"name": "Downloadable Video",
+						"id": 43,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Video",
+					"star_rating_info": {
+						"score": 4.9,
+						"votes": 57,
+						"star1": 0,
+						"star2": 1,
+						"star3": 2,
+						"star4": 5,
+						"star5": 49
+					},
+					"release_date_on_eshop": "2016-12-01",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "The Legend of Zelda\nMain Theme Medley",
+					"id": 50010000042125,
+					"product_code": "CTR-N-SP6E",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/864ac83dfd3cfd0ab34d2a0d16df3805cfbbeb5e01395a782a496007e14dd584.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/c0bbbebefc15fc3ddd6fa4d5ea349dce99da3682744726d9b0179988ba9635b7.jpg",
+					"new": false
+				},
+				"index": 25
+			}],
+			"length": 25,
+			"offset": 0,
+			"total": 50
+		},
+		"id": 1071133,
+		"type": "search",
+		"component": "title"
+	}
+}

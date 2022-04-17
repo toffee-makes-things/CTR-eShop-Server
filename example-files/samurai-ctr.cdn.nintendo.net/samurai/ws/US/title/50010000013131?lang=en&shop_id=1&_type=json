@@ -1,0 +1,457 @@
+{
+	"title": {
+		"formal_name": "Luigi's Mansion™: Dark Moon ",
+		"description": "Luigi’s Mansion™: Dark Moon is the brand new Luigi’s Mansion title on the Nintendo 3DS™ system. This time there are multiple mansions each with unique puzzles and ghosts. \n<br><br>\nUsing a vacuum-like machine called the “Poltergust 5000,” Luigi™ must explore and hunt ghosts in these mansions to complete specific missions for the great ghost researcher Professor E. Gadd. \n<br><br>\nBut shining the flashlight is no longer enough.  Luigi must activate the new strobe function at just the right moment to stun the ghosts first, then catch them using the Poltergust 5000.  Each mansion is filled with different gimmicks and puzzle elements, and exploring them can be a spooky challenge.",
+		"genres": {
+			"genre": [{
+				"name": "Adventure",
+				"id": 4
+			}, {
+				"name": "Puzzle",
+				"id": 6
+			}, {
+				"name": "Multiplayer",
+				"id": 92
+			}],
+			"length": 3
+		},
+		"keywords": {
+			"keyword": ["3D Games", "Luigi", "Local Play", "Download Play", "Nintendo Network", "Nintendo"]
+		},
+		"features": {
+			"feature": [{
+				"id": 6,
+				"name": "Displays 3D Visuals",
+				"required": false,
+				"type": 4
+			}, {
+				"id": 8,
+				"name": "Supports Local Play",
+				"required": false,
+				"type": 5
+			}, {
+				"id": 16,
+				"name": "Supports Download Play",
+				"required": false,
+				"type": 5
+			}, {
+				"id": 30,
+				"name": "Nintendo Network",
+				"icons": {
+					"icon": [{
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/233a88d20a1bc522ae130b8ffb72c35593e0605e0d35ebfbb4168840c2a7ca5e.png",
+						"type": "normal"
+					}, {
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/05a137cb151cc8c6be24849bbc758437727bd14cd847e7c2a3ee4f98f88428a9.jpg",
+						"type": "small"
+					}]
+				},
+				"required": false,
+				"type": 4
+			}]
+		},
+		"languages": {
+			"language": [{
+				"iso_code": "en",
+				"name": "English"
+			}, {
+				"iso_code": "es",
+				"name": "Spanish"
+			}, {
+				"iso_code": "fr",
+				"name": "French"
+			}]
+		},
+		"number_of_players": "1 - 4 players",
+		"disclaimer": "Use Parental Controls to restrict 3D mode for children 6 and under.\n<br><br>\nDue to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or \n“Download Later” to download the game when the system enters “sleep mode.”\n<br><Br>\nYou may need an additional compatible SD card or SDHC card with available space to download this software. Visit support.nintendo.com for information about storage options. Sold separately.",
+		"copyright": {
+			"text": "© 2013 Nintendo. Luigi's Mansion and Nintendo 3DS are trademarks of Nintendo."
+		},
+		"screenshots": {
+			"screenshot": [{
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/37b4b93ae0f5a334cd67d9750ad94c4b36147e34d5de531ba361cf7b7847a57d.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/032b027524d934217122457818d8e96f6930e7b167c70036ca48c36a39fd5d6a.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/555c214dc7e5e9515cb2d73ffd5db50445ff81d9f6932ecddb92a4b8a4470596.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/d4896d1dbe7ba2c0c3f3431d53f1bc0281f9f24317b63f9896bd2c6b1270aff1.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/66c0eca49ab3d0ed84fe8fd0beecb39670e73a757288684af0aa7a5139be14b8.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/e15a874f4026cb545913754325d34e115855843a967fbcc1bb6eaefa2699ecf0.jpg",
+					"type": "lower"
+				}]
+			}]
+		},
+		"preference": {
+			"target_player": {
+				"everyone": 64,
+				"gamers": 36
+			},
+			"play_style": {
+				"casual": 55,
+				"intense": 45
+			}
+		},
+		"web_sites": {
+			"web_site": [{
+				"name": "Nintendo Website",
+				"url": "http://www.nintendo.com",
+				"official": false
+			}]
+		},
+		"movies": {
+			"movie": [{
+				"name": "Luigi’s Mansion™: Dark Moon\nAccolades Trailer",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/f304abc7842ce4fee1c56aa748e58a4c90590998b8fce26fc8410d8f6296a1f7.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/c291fb52ecfa7f709aa262f3d6f880f3024bd833e56862d4057f3b93c90218f5.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/1c0ce945da2cbd654f6e7788d15c9019c88cdd43312a0746d0063c7a82492926.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 98
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E",
+						"age": 6,
+						"id": 2
+					}
+				},
+				"id": 50040000010110,
+				"new": false
+			}, {
+				"name": "Luigi’s Mansion™: Dark Moon\nMultiplayer Demo Video",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/b5dc70d3a330860a8cf1ac2d57607cccc0791e94744d47b4ea3927988b3227a5.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/2ad2d362611d47f8c77fdac594c249a01c835f8d08042e7938cc993abd16a48c.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/032b6762a6b3dfede4bcbf1ca06b60ab456563b80a8667c0b025a670c69e31be.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 255
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E",
+						"age": 6,
+						"id": 2
+					}
+				},
+				"id": 50040000009474,
+				"new": false
+			}, {
+				"name": "Luigi’s Mansion™: Dark Moon\nMultiplayer Video",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ac0a1e3b2b01ee5e29b90883048d396cf4bfcd0b01a87d398791bf897c016127.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/f3abca612f4fd4838f48aaf9db8a5be7e1d789248b625390824e9c0bd9b8e91f.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/1fa0528869b08aea400ff694bc5c88571beb256be00055054a818fa40f96f808.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 44
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E",
+						"age": 6,
+						"id": 2
+					}
+				},
+				"id": 50040000008895,
+				"new": false
+			}, {
+				"name": "Luigi’s Mansion™: Dark Moon\nTrailer",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e2835d50c2d34c47bf8b9f2b3dae36cb1ba0f0bb7c38e79d590fc2046cdc4787.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d0118585a7945a42ca7a92cc0eb4a44ee88ac58f2d18cd397e59bcb95b4dbe7b.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/c8ef6a54ce9f4b7021d34ab1a954541ccb5052d949ed606c8b74a051472ea1bb.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "3d",
+						"play_time_sec": 52
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E",
+						"age": 6,
+						"id": 2
+					}
+				},
+				"id": 50040000009187,
+				"new": false
+			}, {
+				"name": "Luigi’s Mansion™:\nDark Moon Commercial",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e2de5cd9b9579e6be42b07ffd0ce65e4e2b14a700603311f2564f4b49e3c5f09.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ac3d9826e5cdeb16d0c6f6e5446d6d407eda58c4812a251ddff76da076c5ca0b.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/5860f9def8348aeae4b41b8a17bdd004ec501b9ba805f573b6c546a023be2acd.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 30
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E",
+						"age": 6,
+						"id": 2
+					}
+				},
+				"id": 50040000009355,
+				"new": false
+			}, {
+				"name": "Luigi’s Mansion™: Dark Moon\nLaunch Trailer",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/b9e3492011cab7c67763e67b5096b0294408f5c4fc55e3b7e6365cbf7b70ed1c.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/2dfe4547a690d3447bb4c92624cd168a1e2404feb8e194483840bcf0b1e7ab62.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/4c9e7c7e270cadd511cd14fc4aa6ec536dccc883ef8247f2005e454463844852.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "3d",
+						"play_time_sec": 152
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E",
+						"age": 6,
+						"id": 2
+					}
+				},
+				"id": 50040000009730,
+				"new": false
+			}]
+		},
+		"ticket_available": false,
+		"data_size": 883702676,
+		"download_code_sales": true,
+		"download_card_sales": {
+			"available": false
+		},
+		"name": "Luigi's Mansion™: Dark Moon ",
+		"thumbnails": {
+			"thumbnail": [{
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/8385ed679489e354f45f42865e76cd61eafe612f67b269c515bb5db6a7636c1a.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}, {
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/b636c8e7c58297967faa58b3b0af15929f5e87e2d4833fc68072cc42c6c9ed62.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}, {
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/54ca99597cd8c8f4968c5b0b28be7cab351da0666a55087f24d6dbf4c773070d.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}]
+		},
+		"id": 50010000013131,
+		"platform": {
+			"name": "Nintendo 3DS Retail/Download",
+			"id": 103,
+			"device": "CTR",
+			"category": 8
+		},
+		"publisher": {
+			"name": "Nintendo",
+			"id": 190
+		},
+		"product_code": "CTR-N-AGGE",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/d13d05db44a32893b327d31b6d0e6c3494ef79714353bf08c270c98a55975bd3.jpg",
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/e2fe02b927a4a2f2f8d5c8250ba608b17493f9826c2cec85d5570799c4ef2d06.jpg",
+		"display_genre": "Puzzle-solving Adventure",
+		"rating_info": {
+			"rating_system": {
+				"name": "ESRB",
+				"id": 202
+			},
+			"rating": {
+				"icons": {
+					"icon": [{
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+						"type": "normal"
+					}, {
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+						"type": "small"
+					}]
+				},
+				"name": "E",
+				"age": 6,
+				"id": 2
+			},
+			"descriptors": {
+				"descriptor": [{
+					"name": "Crude Humor"
+				}, {
+					"name": "Mild Cartoon Violence"
+				}]
+			}
+		},
+		"star_rating_info": {
+			"score": 4.76,
+			"votes": 82075,
+			"star1": 1586,
+			"star2": 1312,
+			"star3": 3464,
+			"star4": 12949,
+			"star5": 62764,
+			"conditional_ratings": {
+				"conditional_rating": [{
+					"score": 4.69,
+					"votes": 38876,
+					"sex": "male",
+					"age": "0-19"
+				}, {
+					"score": 4.62,
+					"votes": 11937,
+					"sex": "male",
+					"age": "20-39"
+				}, {
+					"score": 4.58,
+					"votes": 2388,
+					"sex": "male",
+					"age": "40-"
+				}, {
+					"score": 4.54,
+					"votes": 6077,
+					"sex": "female",
+					"age": "0-19"
+				}, {
+					"score": 4.57,
+					"votes": 2747,
+					"sex": "female",
+					"age": "20-39"
+				}, {
+					"score": 4.48,
+					"votes": 909,
+					"sex": "female",
+					"age": "40-"
+				}]
+			}
+		},
+		"release_date_on_eshop": "2013-03-24",
+		"release_date_on_retail": "2013-03-24",
+		"retail_sales": true,
+		"eshop_sales": true,
+		"web_sales": true,
+		"demo_available": false,
+		"aoc_available": false,
+		"in_app_purchase": false,
+		"top_image": {
+			"type": "screenshot",
+			"url": "https://kanzashi-ctr.cdn.nintendo.net/i/37b4b93ae0f5a334cd67d9750ad94c4b36147e34d5de531ba361cf7b7847a57d.jpg"
+		},
+		"new": false,
+		"public": true
+	}
+}

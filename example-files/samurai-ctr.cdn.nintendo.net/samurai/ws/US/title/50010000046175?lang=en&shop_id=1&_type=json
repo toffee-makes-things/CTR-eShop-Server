@@ -1,0 +1,195 @@
+{
+	"title": {
+		"formal_name": "Luigi’s Mansion™",
+		"description": "G-g-ghosts! Time to suck those suckers up because Luigi is back in the first portable version of this spooky classic. After winning a mansion in a contest he didn’t enter, he must beat its many bosses and puzzles. Follow a map on the touchscreen, shine a flashlight, blow fire, shoot water, stun ghosts, and trap them…before Mario is trapped forever! All this ghost-catching tomfoolery pays off! As you suck ‘em up with your Poltergust 3000, you could also rake in millions in hidden, in-game riches for our hard-luck hero. Make sure to search every area using the Game Boy Horror’s map on your touchscreen and activate its Boo Radar to track down every Boo in the mansion or spot ghosts’ weak points. After beating and capturing boss ghosts, you can select their portraits from the gallery to best your own score in tense rematches—a new feature in the Nintendo 3DS version!",
+		"genres": {
+			"genre": [{
+				"name": "Action",
+				"id": 3
+			}, {
+				"name": "Adventure",
+				"id": 4
+			}],
+			"length": 2
+		},
+		"keywords": {
+			"keyword": ["Nintendo"]
+		},
+		"features": {
+			"feature": [{
+				"id": 8,
+				"name": "Supports Local Play",
+				"required": false,
+				"type": 5
+			}, {
+				"id": 16,
+				"name": "Supports Download Play",
+				"required": false,
+				"type": 5
+			}, {
+				"id": 56,
+				"name": "amiibo",
+				"icons": {
+					"icon": [{
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/17428059e5a57bc9cbb7c68e1c34d0d384d649ae3e6508376d4676bad6d887ef.png",
+						"type": "normal"
+					}, {
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/7d986ec65edb925478057e358625be907d607bc12cd97587dffb7e71839fca4d.jpg",
+						"type": "small"
+					}]
+				},
+				"description": "amiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
+				"required": false,
+				"type": 6
+			}]
+		},
+		"languages": {
+			"language": [{
+				"iso_code": "en",
+				"name": "English"
+			}, {
+				"iso_code": "es",
+				"name": "Spanish"
+			}, {
+				"iso_code": "fr",
+				"name": "French"
+			}]
+		},
+		"number_of_players": "1 - 2 players",
+		"disclaimer": "Use Parental Controls to restrict 3D mode for children 6 and under.<br><br>Due to the size of this game, it may take longer to download the digital version of this title when compared to other Nintendo eShop games. At the time of purchase you can choose either “Download Now” to begin to download the game immediately or<br>“Download Later” to download the game when the system enters “Sleep Mode.”<br><br>You may need to upgrade your current SD Card to a compatible SDHC Card or microSDHC Card with enough available space to download this software.<br>Visit support.nintendo.com for information about storage options. Sold separately.<br><br>amiibo™ compatible game (software update may be required). Wii U and New Nintendo 3DS™ XL systems have built-in amiibo support; other systems in the Nintendo 3DS family require a peripheral device (available 2015; sold separately). Compatibility and functionality of amiibo figures may vary per game. Visit http://www.nintendo.com/amiibo/compatibility/ for specific details on how each amiibo works. amiibo sold separately.",
+		"copyright": {
+			"text": "© 2018 Nintendo. Luigi’s Mansion and Nintendo 3DS are trademarks of Nintendo."
+		},
+		"screenshots": {
+			"screenshot": [{
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/d61088c955de168e95b3d8dd6e2f5ddd66eee10f7cf88950c1bf143bcaa74b6c.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/54fdb3ad297846fab5491fdb32aa1927b13a367da090dc5cb4775682171143f8.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/515f0e640e8841be74bacfb60a182bbfaaeff6eb5fb5dfaae1408199b556417a.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/c57c1d8ae6cb63eaeb450a53d0e5f5216e3a4eadbbe33227976d6965ed9affdf.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/586b72e568c9393afd6c71205de74a7cd6a4433fc2a0fd3d554fb65b7aa7feba.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/6c6ac6ecc1ff8e811d58774018fed96e92c981de0d17cbbc311ea60e4e48b4e0.jpg",
+					"type": "lower"
+				}]
+			}]
+		},
+		"preference": {
+			"target_player": {
+				"everyone": 68,
+				"gamers": 32
+			},
+			"play_style": {
+				"casual": 64,
+				"intense": 36
+			}
+		},
+		"ticket_available": false,
+		"data_size": 232213396,
+		"download_code_sales": true,
+		"download_card_sales": {
+			"available": true
+		},
+		"name": "Luigi’s Mansion™",
+		"thumbnails": {
+			"thumbnail": [{
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/b710f7b1b7637ddcfebf5a90d91b4801842643dc371270e12d96a18f64c70ea9.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}, {
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/cf8b1ae56c0d5614f97e566bc36f8a3ca62ca66d70802cabf91ecffa3a852956.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}, {
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/3a65d22ef47a03f57a87d9266fc9e73d272ae0f44076cf1fad18c8f5689293be.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}]
+		},
+		"id": 50010000046175,
+		"platform": {
+			"name": "Nintendo 3DS Retail/Download",
+			"id": 103,
+			"device": "CTR",
+			"category": 8
+		},
+		"publisher": {
+			"name": "Nintendo",
+			"id": 190
+		},
+		"product_code": "CTR-N-BGNE",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/f0bf0e8aa91fc536917e1592f39c2baf614266aa3d8ccb3c1e59173a4c0e82c2.jpg",
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/5d646a9c02db4eec1a7fd271c35419df478a435a2ed00c9bc7c647acd3d5897b.jpg",
+		"display_genre": "Action / Adventure",
+		"rating_info": {
+			"rating_system": {
+				"name": "ESRB",
+				"id": 202
+			},
+			"rating": {
+				"icons": {
+					"icon": [{
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+						"type": "normal"
+					}, {
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+						"type": "small"
+					}]
+				},
+				"name": "E",
+				"age": 6,
+				"id": 2
+			},
+			"descriptors": {
+				"descriptor": [{
+					"name": "Mild Cartoon Violence"
+				}]
+			}
+		},
+		"star_rating_info": {
+			"score": 4.72,
+			"votes": 3468,
+			"star1": 70,
+			"star2": 60,
+			"star3": 158,
+			"star4": 652,
+			"star5": 2528
+		},
+		"release_date_on_eshop": "2018-10-11",
+		"release_date_on_retail": "2018-10-12",
+		"price_on_retail": "$39.99",
+		"price_on_retail_detail": {
+			"amount": "$39.99",
+			"currency": "USD",
+			"raw_value": "39.99"
+		},
+		"retail_sales": true,
+		"eshop_sales": true,
+		"web_sales": true,
+		"demo_available": false,
+		"aoc_available": false,
+		"in_app_purchase": false,
+		"top_image": {
+			"type": "screenshot",
+			"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d61088c955de168e95b3d8dd6e2f5ddd66eee10f7cf88950c1bf143bcaa74b6c.jpg"
+		},
+		"new": false,
+		"public": true
+	}
+}

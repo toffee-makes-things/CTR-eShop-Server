@@ -1,0 +1,127 @@
+{
+	"directory": {
+		"name": "Fire Emblem Warriors",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/96bfa1d0ee681d272180aa60ab9defbd9e30f31a9ca3635451e1290b4a5de8e0.jpg",
+		"icon_width": 128,
+		"icon_height": 96,
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/6b1cc135ea31b5c04504d8ca0d78edd1c9adfcee682e1320f233954797287a74.jpg",
+		"contents": {
+			"content": [{
+				"title": {
+					"platform": {
+						"name": "New 3DS Retail/Download",
+						"id": 1002,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Action / RPG / Strategy",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"star_rating_info": {
+						"score": 4.58,
+						"votes": 986,
+						"star1": 9,
+						"star2": 18,
+						"star3": 88,
+						"star4": 244,
+						"star5": 627
+					},
+					"release_date_on_eshop": "2017-10-20",
+					"release_date_on_retail": "2017-10-20",
+					"price_on_retail": "$39.99",
+					"price_on_retail_detail": {
+						"amount": "$39.99",
+						"currency": "USD",
+						"raw_value": "39.99"
+					},
+					"retail_sales": true,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": true,
+					"name": "Fire Emblem Warriors",
+					"id": 50010000042984,
+					"product_code": "KTR-N-CFME",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/b1bdfb7a7746abe5c9e50a46f37239e0b5179cdb1bb0b6a0e21124f0880c6830.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/78b32919b1abc89a1c0ef3138d0949d96b7fbdb2a772412333019401f31aa55e.jpg",
+					"new": false
+				},
+				"index": 1
+			}, {
+				"title": {
+					"platform": {
+						"name": "Software Update",
+						"id": 1003,
+						"device": "CTR",
+						"category": 8
+					},
+					"publisher": {
+						"name": "Nintendo",
+						"id": 190
+					},
+					"display_genre": "Update",
+					"rating_info": {
+						"rating_system": {
+							"name": "ESRB",
+							"id": 202
+						},
+						"rating": {
+							"icons": {
+								"icon": [{
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/6d7c4dce8a918f26e99e18e48bdcea6a7540b11eaa64bee8e6fff6fb4de1a3bc.jpg",
+									"type": "normal"
+								}, {
+									"url": "https://kanzashi-ctr.cdn.nintendo.net/i/96c95760c301e147e0c6ce26f89d9791ca162e1e47a61ae077dd7886c4fb30fa.jpg",
+									"type": "small"
+								}]
+							},
+							"name": "T",
+							"age": 13,
+							"id": 4
+						}
+					},
+					"release_date_on_eshop": "2017-10-19",
+					"retail_sales": false,
+					"eshop_sales": true,
+					"demo_available": false,
+					"aoc_available": false,
+					"in_app_purchase": false,
+					"name": "Fire Emblem Warriors\nUpdate Ver. 1.5.0",
+					"id": 50010000043855,
+					"product_code": "KTR-U-CFME",
+					"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/b5c8c2b8f5cd2d020079646b986371243f265175fae3c1dcaa7ce1f6a601c6d3.jpg",
+					"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/f9627a293b8c4cc5afd7cfaf79e55101af692db2470647e265172cdf8a54092a.jpg",
+					"new": false
+				},
+				"index": 2
+			}],
+			"total": 2
+		},
+		"id": 1071127,
+		"type": "normal",
+		"component": "title",
+		"alias": "2978a972a7bd179fe3869c69400c946d"
+	}
+}
