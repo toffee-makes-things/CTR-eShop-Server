@@ -1,0 +1,222 @@
+{
+	"title": {
+		"formal_name": "Rytmik",
+		"description": "Rytmik is an application for creating rhythmical and melodic themes and for composing whole songs. It contains more than 170 carefully selected sound samples of drums, cymbals, percussions, bass, and melodic instruments.\n\nWith Rytmik you can quickly and easily create the basic building block—an audio clip. It consists of musical notations for up to four instruments that you may transpose, select their location in the stereo field, and modify their volume, polyphony, and echo. You may arbitrarily combine up to 128 such clips in four tracks and create complex pieces of music. Moreover you have a rhythm library with a varied collection of 16 pre-made compositions at your disposal that you may quickly compose your own pieces from.\n\nFor the best musical experience we recommend connecting headphones or a quality speaker system. You’ll become the king of the Friday party scene in no time…",
+		"genres": {
+			"genre": [{
+				"name": "Other",
+				"id": 17
+			}, {
+				"name": "Music",
+				"id": 85
+			}],
+			"length": 2
+		},
+		"keywords": {
+			"keyword": ["Rytmik", "Other", "Cinemax SRO", "Application"]
+		},
+		"languages": {
+			"language": [{
+				"iso_code": "en",
+				"name": "English"
+			}]
+		},
+		"number_of_players": "1 player",
+		"copyright": {
+			"text": "©2010 Cinemax"
+		},
+		"screenshots": {
+			"screenshot": [{
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/b8322ca0485954bf0223d1c2cbfe50de590b6ce381bf789b183b49d92aef8199.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/2670fdbf31a45e8384066b4b83e15058d5681d44177c14cb222aa9d495fa97e3.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/09464761ab430b3a9a52b5bb05963198cb7e795866b1c02573c5cc0339fc42ab.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/d9c6be141b82d482498fa80ab918946cca59568c0e0aa763c81d347cf29a5fa7.jpg",
+					"type": "lower"
+				}]
+			}, {
+				"image_url": [{
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/70d254976f1f1f1615d37a7c4e531e7a32033c2c7c4cf8b85966ac4cc3d56199.jpg",
+					"type": "upper"
+				}, {
+					"value": "https://kanzashi-ctr.cdn.nintendo.net/i/72675589ca38f64a4685fe6b1400590dc9004a955e7587842182e4dbf3980414.jpg",
+					"type": "lower"
+				}]
+			}]
+		},
+		"preference": {
+			"target_player": {
+				"everyone": 87,
+				"gamers": 13
+			},
+			"play_style": {
+				"casual": 80,
+				"intense": 20
+			}
+		},
+		"movies": {
+			"movie": [{
+				"name": "Rytmik Video",
+				"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ef0e1df043ee5de9308a668e49ec31e8058db6241b592caf9f1290381f4d89d5.jpg",
+				"thumbnail_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ab77f2410e2e99841a0e35cadcdb4927693ea2c1e3e6028df28c9ec644bb3807.jpg",
+				"files": {
+					"file": [{
+						"format": "moflex",
+						"movie_url": "https://kanzashi-movie-ctr.cdn.nintendo.net/m/80bf19f5072f6bb08ed375137f8304b9da7e928d1d9e764e8e08e7abb5ae88d7.moflex",
+						"width": 400,
+						"height": 240,
+						"dimension": "2d",
+						"play_time_sec": 71
+					}]
+				},
+				"rating_info": {
+					"rating_system": {
+						"name": "ESRB",
+						"id": 202
+					},
+					"rating": {
+						"icons": {
+							"icon": [{
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+								"type": "normal"
+							}, {
+								"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+								"type": "small"
+							}]
+						},
+						"name": "E",
+						"age": 6,
+						"id": 2
+					}
+				},
+				"id": 50040000000909,
+				"new": false
+			}]
+		},
+		"ticket_available": false,
+		"data_size": 13002548,
+		"download_code_sales": false,
+		"download_card_sales": {
+			"available": false
+		},
+		"name": "Rytmik",
+		"thumbnails": {
+			"thumbnail": [{
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/a8344c7814efcbd50225f3a040de18f9e117bc4c37f28d57f05d483992290333.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}, {
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/140d78a560e860cfbddb6132ea90549677bdaed77176f0c55f0e692eff9dfab2.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}, {
+				"url": "https://kanzashi-ctr.cdn.nintendo.net/i/5840a3f52a975645a190f7e89aee3fe28a25fd8a612afcd7e57700a0d00dac56.jpg",
+				"height": 112,
+				"width": 112,
+				"type": "small"
+			}]
+		},
+		"id": 50010000003401,
+		"platform": {
+			"name": "Nintendo DSiWare",
+			"id": 20,
+			"device": "CTR",
+			"category": 9
+		},
+		"publisher": {
+			"name": "Cinemax",
+			"id": 45
+		},
+		"product_code": "TWL-N-KRKE",
+		"icon_url": "https://kanzashi-ctr.cdn.nintendo.net/i/fefc0547905ab867d175acb230d446f876690fa82a5f2d8cb3a4bd2fc0647401.jpg",
+		"banner_url": "https://kanzashi-ctr.cdn.nintendo.net/i/ef0e1df043ee5de9308a668e49ec31e8058db6241b592caf9f1290381f4d89d5.jpg",
+		"display_genre": "Music",
+		"rating_info": {
+			"rating_system": {
+				"name": "ESRB",
+				"id": 202
+			},
+			"rating": {
+				"icons": {
+					"icon": [{
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/d96122dbb89250582816a67461bf8080f030402720e46032980582bca516778d.jpg",
+						"type": "normal"
+					}, {
+						"url": "https://kanzashi-ctr.cdn.nintendo.net/i/2d2bc9f60a5a4dbf44175cf1cfe1adc52abbee7ad66ebd6e3978966f84ae9c58.jpg",
+						"type": "small"
+					}]
+				},
+				"name": "E",
+				"age": 6,
+				"id": 2
+			},
+			"descriptors": {}
+		},
+		"star_rating_info": {
+			"score": 4.32,
+			"votes": 568,
+			"star1": 9,
+			"star2": 15,
+			"star3": 90,
+			"star4": 174,
+			"star5": 280,
+			"conditional_ratings": {
+				"conditional_rating": [{
+					"score": 4.3,
+					"votes": 307,
+					"sex": "male",
+					"age": "0-19"
+				}, {
+					"score": 4.16,
+					"votes": 79,
+					"sex": "male",
+					"age": "20-39"
+				}, {
+					"score": 3.56,
+					"votes": 9,
+					"sex": "male",
+					"age": "40-"
+				}, {
+					"score": 4.1,
+					"votes": 60,
+					"sex": "female",
+					"age": "0-19"
+				}, {
+					"score": 4.13,
+					"votes": 16,
+					"sex": "female",
+					"age": "20-39"
+				}, {
+					"score": 3.67,
+					"votes": 3,
+					"sex": "female",
+					"age": "40-"
+				}]
+			}
+		},
+		"release_date_on_eshop": "2010-08-23",
+		"retail_sales": false,
+		"eshop_sales": true,
+		"web_sales": true,
+		"demo_available": false,
+		"aoc_available": false,
+		"in_app_purchase": false,
+		"top_image": {
+			"type": "screenshot",
+			"url": "https://kanzashi-ctr.cdn.nintendo.net/i/b8322ca0485954bf0223d1c2cbfe50de590b6ce381bf789b183b49d92aef8199.jpg"
+		},
+		"release_date_on_original": "2010-08-23",
+		"new": false,
+		"public": true
+	}
+}
