@@ -1,5 +1,5 @@
 # CTR-eShop-Server
-A server that will act as a replacement for the Nintendo eShop for 3DS Consoles. 
+A server that will act as a replacement for the Nintendo eShop for 3DS Consoles. Written in PHP 8.1 (i was gonna do flask but SOAP plays nicer with PHP)
 
 # Supported Servers
 
