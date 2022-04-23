@@ -1,6 +1,91 @@
 {
 	"news": {
-		"news_entry": [],
-		"length": 0
+		"news_entry": [{
+			"headline": "Wii U & Nintendo 3DS \r\neShop discontinuation",
+			"description": "Hello,\n\nAs of late March 2023, it will no longer be possible to make purchases in Nintendo eShop for the Wii U and Nintendo 3DS family of systems. It will also no longer be possible to download free content, including game demos.\n\nAs of 29th August 2022, it will no longer be possible to use a Nintendo eShop Card to add funds to an account in Nintendo eShop on Wii U or the Nintendo 3DS family of systems. However, it will still be possible to redeem download codes until late March 2023.\n\nThe changes to Nintendo eShop on Nintendo 3DS family of systems will simultaneously take effect in software where it is possible to make purchases, such as StreetPass Mii Plaza, Theme Shop and Nintendo Badge Arcade.\n\nEven after late March 2023 and for the foreseeable future, it will still be possible to redownload games and DLC, receive software updates and enjoy online play.\n\nFor more information, please visit support.nintendo.com\n\nNintendo eShop team",
+			"date": 1645102800000,
+			"id": 40489
+		}, {
+			"headline": "Software removal:\r\nPIKMIN Short Movies 3D",
+			"description": "Hello,\n\nThe following software will no\nlonger be available for purchase\nafter 07/10/2020:\n\n- PIKMIN Short Movies 3D\n\nThe software will continue to be\navailable for re-download if you\nhave already purchased it.\n\nPIKMIN Short Movies HD will\nbe added to the Nintendo\nYouTube channel from\nOctober 8th 2020.\n\nWe apologise for the\ninconvenience.\n\nNintendo eShop Team",
+			"date": 1601514000000,
+			"id": 39141
+		}, {
+			"headline": "My Nintendo",
+			"description": "(banner:1)\nMake the most of your Nintendo experience - with My Nintendo!\n\nVisit my.nintendo.com now and find out how you can collect points, get rewards and get news and offers - all with My Nintendo, available now.\n\n● Rewards Programme:\nBy playing our smart device apps like Miitomo or purchasing software from Nintendo eShop, you can collect points which you can exchange for rewards. Rewards change regularly and can include exclusive games and discounts, Nintendo classics or Miitomo contents.\n\n● News - Just for You:\nStay informed with tailor-made news, based on your profile and the games you are playing. You can receive recommendations just for you and even personalised discount offers!*\n\nYou can join on my.nintendo.com and start benefitting from your time with us right away.\n\nNintendo eShop team\n\n*Requires you to have chosen to share your playlogs with Nintendo.",
+			"date": 1459429200000,
+			"images": {
+				"image": [{
+					"index": 1,
+					"type": "banner",
+					"url": "https://kanzashi-ctr.cdn.nintendo.net/i/c50e98ec0b45fe66565c33de5ee95cc1540f2eff453c43dbc67e79e9a7d31105.jpg",
+					"height": 126,
+					"width": 300
+				}]
+			},
+			"id": 26605
+		}, {
+			"headline": "Link your Nintendo Network ID",
+			"description": "(banner:1)\n\nGet connected!\n\nCreating a Nintendo Network ID is easy and will enable you to access all the free content on Nintendo eShop such as Pokémon Shuffle:\n(title:50010000029615)\nand Fullblox\n(title:50010000032636)\nCreating a Nintendo Network ID also allows you to freely participate in Miiverse - a growing community of like-minded players.\n\nTo create a Nintendo Network ID on a Nintendo 3DS system, please follow the steps below:\n1. Go to \"System Settings\";\n2. Choose \"Nintendo Network ID Settings\";\n3. Select \"Create a New ID\";\n4. Follow the on-screen instructions.\n\nAdditionally, it is now possible to link your Nintendo Network ID to a Wii U console. Completing this process will not only combine the Nintendo eShop balances of both systems, but also allow you to benefit from special cross-platform offers.\n\nTo link your Nintendo Network ID to a Wii U, please follow the steps below on your Wii U system:\n\n1. Go to \"User Settings\";\n2. Select \"Link a Nintendo Network ID\";\n3. Follow the on-screen instructions.\n\nFor more information regarding this process, please watch the following movie:\nTutorial: How to register a Nintendo Network ID on 3DS:\n(movie:50040000014495)\n\nNintendo eShop team",
+			"date": 1444730400000,
+			"images": {
+				"image": [{
+					"index": 1,
+					"type": "banner",
+					"url": "https://kanzashi-ctr.cdn.nintendo.net/i/f101bd092b8ef70a8a60d7edb2596c9b5736a2c954340162fe31af4a8baa4f48.jpg",
+					"height": 126,
+					"width": 300
+				}]
+			},
+			"id": 24545
+		}, {
+			"headline": "Nintendo eShop Cards",
+			"description": "(banner:1)\n\nNintendo eShop Cards allow you to easily add funds to your Nintendo eShop account, even without a credit card.\n\nNintendo eShop Cards can be redeemed either on a Wii U console or a Nintendo 3DS system and if you have linked both consoles with your Nintendo Network ID, the balance of both will be combined and shared.\n\nNintendo eShop Cards can be found at many retailers. Here is a list of some retailers in your country that stock them:\n\n- BIG W\n- Dick Smith\n- EB Games\n- Gametraders\n- JB Hi-Fi\n- Kmart\n- Target\n- Toys'R'Us\n\nNintendo eShop team",
+			"date": 1444726800000,
+			"images": {
+				"image": [{
+					"index": 1,
+					"type": "banner",
+					"url": "https://kanzashi-ctr.cdn.nintendo.net/i/a8e9d0d72402cee01a03d03e887591b6e9ebdfac60d2b82c57cb47559d66252e.jpg",
+					"height": 126,
+					"width": 300
+				}]
+			},
+			"id": 24512
+		}, {
+			"headline": "Save Data Transfer Tool",
+			"description": "Hello,\n\nThe Save Data Transfer Tool\nlet's you pick up where you left\noff - without a game card.\n\nIf you own both versions of a\ngame, download this tool now for\nfree on Nintendo eShop and\ntransfer your save data from the\ncard version to the download\nversion (Transferring save data\nfrom the download version to the\ncard version, or between two or\nmore card versions is not\npossible.)\n\nFor more details, please visit the\nNintendo 3DS support section on\nthe Nintendo website.\n\nNintendo eShop Team",
+			"date": 1444723200000,
+			"id": 24524
+		}, {
+			"headline": "Parental Controls",
+			"description": "(banner:1)\n\nIf you are a parent or guardian and would like to control what your child can see and do on your Nintendo 3DS system, then please consider activating Parental Controls.\n\nParental Controls can be found in System Settings located on the Nintendo 3DS HOME Menu. Here you will be able to control what your child experiences on Nintendo 3DS. Some examples include the ability to:\n\n- Filter out information based on game age ratings;\n- Restrict online interaction with other players;\n- Block access to the internet browser;\n- Prevent purchases of software from Nintendo eShop;\n- Restrict Miiverse access;\nAnd much more.\n\nNintendo's Parental Control system was deemed to offer a remarkable level of protection for children after analysis of both Nintendo 3DS and Wii U Parental Control systems in cooperation with USK, the German Entertainment Software Self-Regulation Body. Nintendo's Parental Control system is of a very high quality and was found to have proved itself in practice.\n\nWith these Parental Controls in place, you and your family can have a safer and more secure experience when enjoying Nintendo 3DS.\n\nNintendo eShop team",
+			"date": 1441288800000,
+			"images": {
+				"image": [{
+					"index": 1,
+					"type": "banner",
+					"url": "https://kanzashi-ctr.cdn.nintendo.net/i/43da391c019153abc2626fdf3fa41bd2b4ed4256ce6b3737fe3699c7be2ed9b1.jpg",
+					"height": 126,
+					"width": 300
+				}]
+			},
+			"id": 23309
+		}, {
+			"headline": "Welcome to Nintendo eShop!",
+			"description": "(banner:1)\n\nHello and welcome to Nintendo eShop on Nintendo 3DS!\n\nHere you will find a wide variety of software available for free or to purchase for your Nintendo 3DS system.\n\nDiscover innovative games you won’t find anywhere else, downloadable versions of the hottest retail games, and classic software from yesteryear including titles from NES, Game Boy, and Game Boy Color. Not only that, but you can also check out the latest trailers and game footage for upcoming and already released games, search through the most popular titles by exploring the charts, and review your downloaded games to let others on Nintendo eShop know what you think.\n\nNot sure what to download first? Don't worry, here's our selection of 5 titles you might like to try out:\n\nTomodachi Life™\n(title:50010000021615)\nShovel Knight™\n(title:50010000027035)\nBOXBOY!\n(title:50010000032455)\n3D Sonic the Hedgehog™\n(title:50010000015396)\nSuper Mario Bros.™ 3\n(title:50010000018736)\n\nMake sure to come back often to see what's new!\n\nNintendo eShop team",
+			"date": 1441285200000,
+			"images": {
+				"image": [{
+					"index": 1,
+					"type": "banner",
+					"url": "https://kanzashi-ctr.cdn.nintendo.net/i/4e4223a63ab94c9da60fc81769e016d23ad70be570a83843656b9e8055c2833a.jpg",
+					"height": 126,
+					"width": 300
+				}]
+			},
+			"id": 227
+		}],
+		"length": 8
 	}
 }
