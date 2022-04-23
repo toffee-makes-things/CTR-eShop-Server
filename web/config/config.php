@@ -5,10 +5,10 @@
 // Database info. 
 // Edit this to your needs
 
-$host = 'localhost';
-$database = 'eshopdb';
-$username = 'eshopadmin';
-$password = '123';
+$sqlhost = 'localhost';
+$sqldatabase = 'eshopdb';
+$sqlusername = 'eshopadmin';
+$sqlpassword = '123';
 
 
 ?>
