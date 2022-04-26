@@ -3,12 +3,19 @@
 // Made in PHP 8.1
 // This will handle all SOAP Methods that Nintendo's IAS server does.
 
+
 // require config. it expects this to be in /var/eshop/config edit to your liking 
-include('/var/eshop/config/config.php'); 
+// include('/var/eshop/config/config.php'); 
 
 // connect to postgres using config data. it took me a while to figure out how to correctly put variables in strings
 
-$dbconn = pg_connect("host=${sqlhost} port=5432 dbname=${sqldatabase} user=${sqlusername} password=${sqlpassword}")
+///$dbconn = pg_connect("host=${sqlhost} port=5432 dbname=${sqldatabase} user=${sqlusername} password=${sqlpassword}")
+
+// this part ^^^ is commmented out because i wanna figure out soap first. then get the sql stuff working next.
+
+// soap stuff starts here
+
+
 
 
 ?>
